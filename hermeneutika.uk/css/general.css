@@ -1,0 +1,31 @@
+.list1 {
+	font-size: 30px;
+	color: white;
+	display: flex;
+	gap: 30px;
+	align-self: auto;
+	margin: 0px;
+	justify-content: center;
+	background-color: blue;
+	height: 60px;
+}
+.menu1 {
+	color: white;
+}
+body {
+	margin: 0;
+}
+.main1 {
+	display: flex;
+	height: 500px;
+	flex-grow: 1;
+	align-self: stretch;
+	color: green;
+	gap: 30px;
+	justify-content: center;
+	flex-basis: 300px;
+	background-color: yellow;
+}
+.footer {
+	color: black;
+}

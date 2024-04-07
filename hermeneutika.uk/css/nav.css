@@ -6,7 +6,7 @@ body,
 .parent {
 	display: block;
 	position: relative;
-	float: left;
+	float: center;
 	line-height: 40px;
 	background-color: #ffc72c;
 	border-right: #ccc 1px solid;

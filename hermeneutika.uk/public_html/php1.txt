@@ -1,3 +1,0 @@
-IPV6 revisited. 
-
-21 Feb 2022 it looks like ipv6 penetration is getting larger all the time.

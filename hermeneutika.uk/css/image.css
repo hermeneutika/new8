@@ -14,11 +14,14 @@
 .main-nav-link {
 	color: white;
 }
-.container {
+.container 
+{
+	background-color:black;
+	color:white;
 }
 .grid {
 	display: grid;
-	grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
+	grid-template-columns: 1.5fr 1.5fr /*1fr 1fr 1fr*/;
 }
 /* ************************ */
 /* NAVIGATION */

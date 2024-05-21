@@ -8,14 +8,14 @@
 	</head>
 	<body>
 		<?php include 'menu-header.php'; ?>
-		
+<main>		
 		<section class="middle">
 			<div class="container">
 				<img class="bike1" src="img/bike1.jpg" alt="bike1" />
 			</div>
 		</section>
 
-		
+</main>	
 		<footer class="footer">
 			<div class="container grid">
 				<div class="address1">

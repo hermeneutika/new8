@@ -9,15 +9,14 @@
 	list-style: none;
 	display: flex;
 	align-items: center;
-	gap: 4.8rem;
+	gap: 1.8rem;
 }
 .main-nav-link {
 	color: white;
 }
-.container 
-{
-	background-color:black;
-	color:white;
+.container {
+	background-color: black;
+	color: white;
 }
 .grid {
 	display: grid;

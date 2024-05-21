@@ -7,12 +7,13 @@
 		<title>Document</title>
 	</head>
 	<body>
-		<header>
+
+<header>
 			<img class="logo" src="img/hope-logo.jpg" alt="hope-logo" />
 
 			<nav class="main-nav">
 				<ul class="main-nav-list">
-					<li><a class="main-nav-link" href="#how">Home</a></li>
+					<li><a class="main-nav-link" href="index.php">Home</a></li>
 					<li><a class="main-nav-link" href="#meals">Churches</a></li>
 					<li>
 						<a class="main-nav-link" href="#testimonials">Gallery</a>
@@ -30,29 +31,12 @@
 					</li>
 					<li><a class="main-nav-link" href="#pricing">Street Angels</a></li>
 					<li>
-						<a class="main-nav-link nav-cta" href="#cta">Young People</a>
+						<a class="main-nav-link nav-cta" href="young.php">Young People</a>
 					</li>
 					<li><a class="main-nav-link" href="#how">Prayer Walking</a></li>
 					<li><a class="main-nav-link" href="#meals">Eco Church</a></li>
 				</ul>
 			</nav>
 		</header>
-
-		<footer class="footer">
-			<div class="container grid">
-				<div class="address1">
-					<p class="chris">
-						Chair: Reverend Chris Whiteley 64 Kennedy Avenue Macclesfield SK10
-						3DE 01625 422404 07780 692808 cnwhiteley49@gmail.com
-					</p>
-				</div>
-				<div class="address2">
-					<p class="steve">
-						Co-ordinator: Steve Oliver 1 Moorlands Close Macclesfield SK10 2TL
-						01625 421046 07801 715572 steve.oliver3@ntlworld.com
-					</p>
-				</div>
-			</div>
-		</footer>
-	</body>
+</body>
 </html>

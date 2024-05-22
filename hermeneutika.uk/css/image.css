@@ -20,7 +20,7 @@
 }
 .grid {
 	display: grid;
-	grid-template-columns: 1.5fr 1.5fr /*1fr 1fr 1fr*/;
+	grid-template-columns: 1.5fr 1.5fr 1.5fr /*1fr 1fr 1fr*/;
 }
 
 .bike1 {
@@ -29,6 +29,13 @@
 	margin-right: auto;
 	width: 50%;
 }
+
+.footer {
+	padding:9.6rem;
+}
+.logo {
+	height: 2.2rem;
+  }
 /* ************************ */
 /* NAVIGATION */
 /* ************************ */

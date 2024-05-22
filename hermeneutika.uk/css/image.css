@@ -31,11 +31,19 @@
 }
 
 .footer {
-	padding:9.6rem;
+	padding: 9.6rem;
 }
 .logo {
 	height: 2.2rem;
-  }
+}
+.social-links {
+	color: white;
+	list-style: none;
+}
+
+.icon {
+	color: white;
+}
 /* ************************ */
 /* NAVIGATION */
 /* ************************ */

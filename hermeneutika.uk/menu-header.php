@@ -25,7 +25,7 @@
 						>
 					</li>
 					<li><a class="main-nav-link" href="#how">Organisations</a></li>
-					<li><a class="main-nav-link" href="#meals">Purpose</a></li>
+					<li><a class="main-nav-link" href="purpose1.php">Purpose</a></li>
 					<li>
 						<a class="main-nav-link" href="#testimonials">How we work</a>
 					</li>

@@ -2,6 +2,7 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	max-width: 100%;
 }
 
 .main-nav-list {
@@ -27,15 +28,13 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 25%;
 }
 
 .footer {
 	padding: 9.6rem;
 }
-.logo {
-	height: 2.2rem;
-}
+
 .social-links {
 	color: white;
 	list-style: none;
@@ -43,6 +42,13 @@
 
 .icon {
 	color: white;
+}
+
+.build {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
 }
 /* ************************ */
 /* NAVIGATION */

@@ -10,7 +10,7 @@
 
 <header>
 			<img class="logo" src="img/hope-logo.jpg" alt="hope-logo" />
-
+<section class="container1">
 			<nav class="main-nav">
 				<ul class="main-nav-list">
 					<li><a class="main-nav-link" href="index.php">Home</a></li>
@@ -37,6 +37,7 @@
 					<li><a class="main-nav-link" href="#meals">Eco Church</a></li>
 				</ul>
 			</nav>
+			</section
 		</header>
 </body>
 </html>

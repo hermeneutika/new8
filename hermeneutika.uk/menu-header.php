@@ -33,8 +33,8 @@
 					<li>
 						<a class="main-nav-link nav-cta" href="young.php">Young People</a>
 					</li>
-					<li><a class="main-nav-link" href="#how">Prayer Walking</a></li>
-					<li><a class="main-nav-link" href="#meals">Eco Church</a></li>
+					<li><a class="main-nav-link" href="praywalk1.php">Prayer Walking</a></li>
+					<li><a class="main-nav-link" href="eco1.php">Eco Church</a></li>
 				</ul>
 			</nav>
 		</header>

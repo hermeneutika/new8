@@ -27,9 +27,9 @@
 					<li><a class="main-nav-link" href="#how">Organisations</a></li>
 					<li><a class="main-nav-link" href="purpose1.php">Purpose</a></li>
 					<li>
-						<a class="main-nav-link" href="#testimonials">How we work</a>
+						<a class="main-nav-link" href="work1.php">How we work</a>
 					</li>
-					<li><a class="main-nav-link" href="#pricing">Street Angels</a></li>
+					<li><a class="main-nav-link" href="angel1.php">Street Angels</a></li>
 					<li>
 						<a class="main-nav-link nav-cta" href="young.php">Young People</a>
 					</li>

@@ -46,3 +46,18 @@
 	display: grid;
 	grid-template-columns: 1.5fr 1.5fr 1.5fr /*1fr 1fr 1fr*/;
 }
+
+/*
+/////////////////////////////////////////////////////////////////////////////// 
+ORGANISATIONS
+/////////////////////////////////////////////////////////////////////////////// 
+*/
+.churches {
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	background-color: chartreuse;
+}
+.title1 {
+	text-align: center;
+}

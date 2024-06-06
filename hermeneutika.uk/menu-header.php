@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="css/image.css" />
-		<?xml-stylesheet type="text/css" href="hope1.css"?>
+		
 		<title>Document</title>
 	</head>
 	<body>
@@ -25,7 +25,7 @@
 							>Strategic Priorities</a
 						>
 					</li>
-					<li><a class="main-nav-link" href="hope-org.php">Organisations</a></li>
+					<li><a class="main-nav-link" href="orgs1.php">Organisations</a></li>
 					<li><a class="main-nav-link" href="purpose1.php">Purpose</a></li>
 					<li>
 						<a class="main-nav-link" href="work1.php">How we work</a>
@@ -36,8 +36,17 @@
 					</li>
 					<li><a class="main-nav-link" href="praywalk1.php">Prayer Walking</a></li>
 					<li><a class="main-nav-link" href="eco1.php">Eco Church</a></li>
+					
+					
 				</ul>
+				
 			</nav>
+			<button class="btn-mobile-nav">
+			<ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+			<ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+			</button>
+				
+			
 			</section
 		</header>
 </body>

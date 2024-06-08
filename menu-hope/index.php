@@ -36,15 +36,16 @@
 					</li>
 					<li><a class="main-nav-link" href="praywalk1.php">Prayer Walking</a></li>
 					<li><a class="main-nav-link" href="eco1.php">Eco Church</a></li>
-					<button class="btn-mobile-nav">
-			<ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
-			<ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
-			</button>
+					
 					
 				</ul>
 				
 			</nav>
-			
+			<button class="btn-mobile-nav">
+			<ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+			<ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+			</button>
+
 				
 			
 			</section

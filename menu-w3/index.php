@@ -40,6 +40,12 @@
 					<a class="main-nav-link" href="praywalk1.php">Prayer Walking</a>
 					<a class="main-nav-link" href="eco1.php">Eco Church</a>
 
+          <li><a href="#">Menu5</a></li>
+      <ul>
+      <li><a href="#">submenu</a></li>
+</ul>
+</li>
+
 					
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>

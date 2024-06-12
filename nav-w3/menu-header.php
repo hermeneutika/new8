@@ -9,14 +9,14 @@
 	<body>
 		<img class="logo" src="img/hope-logo.jpg" alt="hope-logo" />
 		<div class="topnav" id="myTopnav">
-			<a href="#home" class="active">Home</a>
+			<a href="index.php" class="active">Home</a>
 			<a href="#news">Churches</a>
-			<a href="#contact">Gallery</a>
+			<a href="gallery1.php">Gallery</a>
       <a href="#contact">Events</a>
       <a href="#contact">Strategic Priorities</a>
       <a href="#contact">How We Work</a>
       <a href="#contact">Strategic Priorities</a>
-      <a href="#contact">Purpose</a>
+      <a href="purpose1.php">Purpose</a>
       <a href="orgs1.php">Organisations</a>
 			<div class="dropdown">
 				<button class="dropbtn">
@@ -39,13 +39,13 @@
 				>&#9776;</a
 			>
 		</div>
-
+<!--
 		<div style="padding-left: 16px">
 			<h2>Responsive Topnav with Dropdown</h2>
 			<p>Resize the browser window to see how it works.</p>
 			<p>Hover over the dropdown button to open the dropdown menu.</p>
 		</div>
-
+-->
 		<script>
 			function myFunction() {
 				var x = document.getElementById("myTopnav");

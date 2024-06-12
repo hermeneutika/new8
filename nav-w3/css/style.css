@@ -10,7 +10,7 @@ img.testing {
 .logo {
 	width: 100%;
 	display: flex;
-	align-items: center;
+	align-items: left;
 	justify-content: center;
 }
 .topnav {
@@ -122,4 +122,12 @@ img.testing {
 		width: 100%;
 		text-align: left;
 	}
+}
+
+
+
+
+.container{
+	display:flex;
+	justify-content: left;
 }

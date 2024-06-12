@@ -25,7 +25,11 @@
 </div>
 				<div class="address1">
 					<p class="chris">
-						Chair: Reverend Chris Whiteley 64 Kennedy Avenue Macclesfield SK10 3DE</p>
+						Chair:</p>
+						<p class="chris"> Reverend Chris Whiteley,</p>
+						<p class="chris">    64 Kennedy Avenue  ,</p>
+						<p class="chris"> Macclesfield, </p>
+						<p class="chris">SK10 3DE</p>
 
 						<a href="tel:01625 422404"> 01625 422404 07780 692808</a><br />
 						 

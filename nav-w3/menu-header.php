@@ -56,5 +56,7 @@
 				}
 			}
 		</script>
+
+		<?php include 'footer1.php' ?>
 	</body>
 </html>

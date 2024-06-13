@@ -8,6 +8,13 @@ img.testing {
 	color: green;
 }
 
+.logo-header{
+	display:block;
+width:75%;	
+margin-left:auto;
+margin-right:auto;
+	
+}
 .topnav {
 	overflow: hidden;
 	background-color: #333;
@@ -122,7 +129,7 @@ img.testing {
 
 /* FOOTER */
 
-
+M
 .container{
 	display:flex;
 	justify-content: left;
@@ -135,7 +142,7 @@ img.testing {
 .steve {
 	font-size: 10px;
 }
-.logo {
+.logo-footer {
 	width: 100%;
 	
 	align-items: left;
@@ -144,7 +151,7 @@ img.testing {
 
 .social-links{
 	display:flex;
-	gap:20px;s
+	gap:20px;
 
 }
 

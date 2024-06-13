@@ -9,7 +9,7 @@
 
 <footer class="footer">
 			<div class="container grid">
-				<div class="logo">
+				<div class="logo-footer">
 				<a href="#">
         <img class="logo" alt="Omnifood logo" src="img/omnifood-logo.png" /> 
 				<!--<img class="logo2" src="img/hope-logo.jpg" alt="hope-logo" />-->

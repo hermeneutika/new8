@@ -7,7 +7,7 @@
 		<style></style>
 	</head>
 	<body>
-		<img class="logo" src="img/hope-logo.jpg" alt="hope-logo" />
+		<img class="logo-header" src="img/hope-logo.jpg" alt="hope-logo" />
 		<div class="topnav" id="myTopnav">
 			<a href="index.php" class="active">Home</a>
 			<a href="#news">Churches</a>

@@ -7,12 +7,7 @@ img.testing {
 	height: 10%;
 	color: green;
 }
-.logo {
-	width: 100%;
-	display: flex;
-	align-items: left;
-	justify-content: center;
-}
+
 .topnav {
 	overflow: hidden;
 	background-color: #333;
@@ -125,9 +120,34 @@ img.testing {
 }
 
 
+/* FOOTER */
 
 
 .container{
 	display:flex;
 	justify-content: left;
+	gap: 20px;
+}
+
+.chris {
+	font-size:10px;
+}
+.steve {
+	font-size: 10px;
+}
+.logo {
+	width: 100%;
+	
+	align-items: left;
+	justify-content: center;
+}
+
+.social-links{
+	display:flex;
+	gap:20px;s
+
+}
+
+.copyright{
+
 }

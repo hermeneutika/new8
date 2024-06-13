@@ -31,17 +31,20 @@
 						<p class="chris"> Macclesfield, </p>
 						<p class="chris">SK10 3DE</p>
 
-						<a href="tel:01625 422404"> 01625 422404 07780 692808</a><br />
+						<a class="chris" href="tel:01625 422404"> 01625 422404 07780 692808</a><br />
 						 
 						
-					<a href="email:cnwhiteley49@gmsil">cnwhiteley49@gmail.com</a>
+					<a class="chris" href="email:cnwhiteley49@gmsil">cnwhiteley49@gmail.com</a>
 				</div>
 				<div class="address2">
-					<p class="steve">
-						Co-ordinator: Steve Oliver 1 Moorlands Close Macclesfield SK10 2TL
+					<p class="steve">Co-ordinator:</p>
+						 <p class="steve">Steve Oliver</p>
+						 <p class="steve"> 1 Moorlands Close</p>
+						 <p class="steve"> Macclesfield</p>
+						 <p class="steve"> SK10 2TL</p>
 </p>
-						<a href="tel:01625 421046">01625 421046 07801 715572</a><br />
-						<a href="email:steve.oliver3@ntlworld.com"> steve.oliver3@ntlworld.com</a>
+						<a class="steve" href="tel:01625 421046">01625 421046 07801 715572</a><br />
+						<a class="steve" href="email:steve.oliver3@ntlworld.com"> steve.oliver3@ntlworld.com</a>
 					
 				</div>
 			</div>

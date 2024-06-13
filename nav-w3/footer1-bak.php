@@ -3,17 +3,27 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/image.css" />
 		<title>Document</title>
 	</head>
-<body>
-	<div class="container2">
-	<a href="#">
-        <img class="logo-omni" alt="Omnifood logo" src="img/omnifood-logo.png" /> 
+
+<div class="footer">
+			<div class="container grid">
+				<div class="logo-footer">
+				<a href="#">
+        <img class="logo" alt="Omnifood logo" src="img/omnifood-logo.png" /> 
 				<!--<img class="logo2" src="img/hope-logo.jpg" alt="hope-logo" />-->
 
       </a>
-			<div class="address">
+			<ul class="social-links">
+				
+			<li><a href="#"><ion-icon class="icon" name="logo-instagram"></ion-icon></a></li>
+			<li><a href="#"><ion-icon class="icon" name="logo-facebook"></ion-icon></a></li>
+			<li><a href="#"><ion-icon class="icon" name="logo-twitter"></ion-icon></a></li>
+			</ul>
+	  <p class="copyright">Copyright &copy: 2027 </p>
+</div>
+<div class="address">
 				<div class="address1">
 					<p class="chris">Chair:</p>
 						<p class="chris"> Reverend Chris Whiteley,</p>
@@ -34,16 +44,9 @@
 						<a class="steve" href="email:steve.oliver3@ntlworld.com"> steve.oliver3@ntlworld.com</a>
 					
 				</div>
-			<ul class="social-links">
-				
-			<li><a href="#"><ion-icon class="icon" name="logo-instagram"></ion-icon></a></li>
-			<li><a href="#"><ion-icon class="icon" name="logo-facebook"></ion-icon></a></li>
-			<li><a href="#"><ion-icon class="icon" name="logo-twitter"></ion-icon></a></li></br>
-			</ul>
-			<p class="copyright">Copyright &copy: 2027 </p>
-			
-				
+			</div>
+</div>
+
 			<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-</body>
-</html>
+		</div>

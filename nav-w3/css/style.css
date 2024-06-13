@@ -8,12 +8,11 @@ img.testing {
 	color: green;
 }
 
-.logo-header{
-	display:block;
-width:75%;	
-margin-left:auto;
-margin-right:auto;
-	
+.logo-header {
+	display: block;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
 }
 .topnav {
 	overflow: hidden;
@@ -126,35 +125,47 @@ margin-right:auto;
 	}
 }
 
-
 /* FOOTER */
-
-M
-.container{
-	display:flex;
-	justify-content: left;
-	gap: 20px;
+.footer {
+	color: white;
 }
-
+.omni {
+	display: inline;
+}
+M .container {
+	display: flex;
+	flex-direction: row;
+	background-color: black;
+}
+.container2 {
+	display: flex;
+}
 .chris {
-	font-size:10px;
+	font-size: 10px;
 }
 .steve {
 	font-size: 10px;
 }
 .logo-footer {
 	width: 100%;
-	
+
 	align-items: left;
 	justify-content: center;
 }
-
-.social-links{
-	display:flex;
-	gap:20px;
-
+.logo-omni {
+	width: 10%;
+	height: 10%;
 }
 
-.copyright{
+.social-links {
+	display: inline;
+	list-style: none;
+}
 
+.copyright {
+	text-decoration: none;
+}
+.address {
+	display: flex;
+	text-decoration: none;
 }

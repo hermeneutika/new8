@@ -9,7 +9,7 @@
 <body>
 	<div class="container2">
 	<a href="#">
-        <img class="logo-omni" alt="Omnifood logo" src="img/omnifood-logo.png" /> 
+        <img class="logo-omni" alt="Omnifood logo" src="img/hope-logo.jpg" /> 
 				<!--<img class="logo2" src="img/hope-logo.jpg" alt="hope-logo" />-->
 
       </a>

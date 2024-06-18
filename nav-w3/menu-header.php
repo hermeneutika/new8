@@ -56,7 +56,7 @@
 				}
 			}
 		</script>
-
+<?php include 'middle1.php' ?>
 		<?php include 'footer1.php' ?>
 	</body>
 </html>

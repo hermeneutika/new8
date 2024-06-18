@@ -14,7 +14,8 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
-<?php include 'menu-header.php'; ?>
+
+<p>this is a test</p>
 <P><IMG SRC="purpose1_html_e4374f7.png" NAME="graphics1" ALIGN=LEFT WIDTH=643 HEIGHT=75 BORDER=0><BR CLEAR=LEFT><BR><BR>
 </P>
 <P><STRONG><FONT FACE="Aptos, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt">Confirmed

@@ -8,6 +8,7 @@
 </head>
 <body>
 	<?php include 'menu-header.php'; ?>
+<<<<<<< HEAD
 	<!--<?php include 'slideshow1.php'; ?>-->
 	
 	<h2>Automatic Slideshow</h2>
@@ -64,6 +65,8 @@ function showSlides() {
 }
 </script>
 
+=======
+>>>>>>> 21f3a8589c41f190292e35500568fced0fd220d9
 	
 </body>
 </html>

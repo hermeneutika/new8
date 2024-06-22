@@ -7,7 +7,10 @@
 		<style></style>
 	</head>
 	<body>
+<<<<<<< HEAD
 		<nav class="menu">
+=======
+>>>>>>> 21f3a8589c41f190292e35500568fced0fd220d9
 		<img class="logo-header" src="img/hope-logo.jpg" alt="hope-logo" />
 		<div class="topnav" id="myTopnav">
 			<a href="index.php" class="active">Home</a>
@@ -32,10 +35,21 @@
 				</div>
 			</div>
 			<a href="#about">About</a>
+<<<<<<< HEAD
 			<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 		</div>
 		</nav>
+=======
+			<a
+				href="javascript:void(0);"
+				style="font-size: 15px"
+				class="icon"
+				onclick="myFunction()"
+				>&#9776;</a
+			>
+		</div>
+>>>>>>> 21f3a8589c41f190292e35500568fced0fd220d9
 <!--
 		<div style="padding-left: 16px">
 			<h2>Responsive Topnav with Dropdown</h2>
@@ -53,9 +67,13 @@
 				}
 			}
 		</script>
+<<<<<<< HEAD
 
 		
 
+=======
+<?php include 'middle1.php' ?>
+>>>>>>> 21f3a8589c41f190292e35500568fced0fd220d9
 		<?php include 'footer1.php' ?>
 	</body>
 </html>

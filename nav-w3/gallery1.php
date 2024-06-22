@@ -7,7 +7,10 @@
   <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <?php include 'header-nomiddle.php' ?>
+=======
+>>>>>>> 21f3a8589c41f190292e35500568fced0fd220d9
 <?php
     $files = scandir('media/');
     foreach($files as $file) {

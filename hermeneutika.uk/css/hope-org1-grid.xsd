@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+         <!-- XML Schema Generated from XML Document on Tue Jun 04 2024 16:20:29 GMT+0100 (British Summer Time) -->
+         <!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+         <xs:element name="rss">
+               <xs:complexType>
+                     <xs:sequence>
+                           <xs:element name="channel">
+                                 <xs:complexType>
+                                       <xs:sequence>
+                                             <xs:element name="title" type="xs:string"></xs:element>
+                                             <xs:element name="link" type="xs:string"></xs:element>
+                                             <xs:element name="description"></xs:element>
+                                             <xs:element name="pubDate" type="xs:string"></xs:element>
+                                             <xs:element name="language" type="xs:string"></xs:element>
+                                             <xs:element name="wp:wxr_version" type="xs:double"></xs:element>
+                                             <xs:element name="wp:base_site_url" type="xs:string"></xs:element>
+                                             <xs:element name="wp:base_blog_url" type="xs:string"></xs:element>
+                                             <xs:element name="wp:author" maxOccurs="unbounded">
+                                                   <xs:complexType>
+                                                         <xs:sequence>
+                                                               <xs:element name="wp:author_id" type="xs:int"></xs:element>
+                                                               <xs:element name="wp:author_login" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:author_email" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:author_display_name" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:author_first_name" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:author_last_name" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                         </xs:sequence>
+                                                   </xs:complexType>
+                                             </xs:element>
+                                             <xs:element name="generator" type="xs:string"></xs:element>
+                                             <xs:element name="item" maxOccurs="unbounded">
+                                                   <xs:complexType>
+                                                         <xs:sequence>
+                                                               <xs:element name="title" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="link" type="xs:string"></xs:element>
+                                                               <xs:element name="pubDate" type="xs:string"></xs:element>
+                                                               <xs:element name="dc:creator" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="guid" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:attribute name="isPermaLink" type="xs:string"></xs:attribute>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="description"></xs:element>
+                                                               <xs:element name="content:encoded">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="excerpt:encoded">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_id" type="xs:int"></xs:element>
+                                                               <xs:element name="wp:post_date" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_date_gmt" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_modified" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_modified_gmt" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:comment_status" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:ping_status" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_name" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:status" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_parent" type="xs:int"></xs:element>
+                                                               <xs:element name="wp:menu_order" type="xs:int"></xs:element>
+                                                               <xs:element name="wp:post_type" type="xs:string">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:post_password">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="#cdata-section"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="wp:is_sticky" type="xs:int"></xs:element>
+                                                               <xs:element name="wp:postmeta" maxOccurs="unbounded">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="wp:meta_key" type="xs:string">
+                                                                                       <xs:complexType>
+                                                                                             <xs:sequence>
+                                                                                                   <xs:element name="#cdata-section"></xs:element>
+                                                                                             </xs:sequence>
+                                                                                       </xs:complexType>
+                                                                                 </xs:element>
+                                                                                 <xs:element name="wp:meta_value" type="xs:string">
+                                                                                       <xs:complexType>
+                                                                                             <xs:sequence>
+                                                                                                   <xs:element name="#cdata-section"></xs:element>
+                                                                                             </xs:sequence>
+                                                                                       </xs:complexType>
+                                                                                 </xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                         </xs:sequence>
+                                                   </xs:complexType>
+                                             </xs:element>
+                                       </xs:sequence>
+                                 </xs:complexType>
+                           </xs:element>
+                     </xs:sequence>
+                     <xs:attribute name="version" type="xs:int"></xs:attribute>
+                     <xs:attribute name="xmlns:excerpt" type="xs:string"></xs:attribute>
+                     <xs:attribute name="xmlns:content" type="xs:string"></xs:attribute>
+                     <xs:attribute name="xmlns:wfw" type="xs:string"></xs:attribute>
+                     <xs:attribute name="xmlns:dc" type="xs:string"></xs:attribute>
+                     <xs:attribute name="xmlns:wp" type="xs:string"></xs:attribute>
+               </xs:complexType>
+         </xs:element>
+   </xs:schema>

@@ -1,0 +1,48 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://wordpress.org/export/1.2/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="author_id" type="xs:byte"/>
+  <xs:element name="author_login" type="xs:string"/>
+  <xs:element name="author_email" type="xs:string"/>
+  <xs:element name="author_display_name" type="xs:string"/>
+  <xs:element name="author_first_name" type="xs:string"/>
+  <xs:element name="author_last_name" type="xs:string"/>
+  <xs:element name="meta_key" type="xs:string"/>
+  <xs:element name="meta_value" type="xs:string"/>
+  <xs:element name="post_id" type="xs:short"/>
+  <xs:element name="post_date" type="xs:string"/>
+  <xs:element name="post_date_gmt" type="xs:string"/>
+  <xs:element name="post_modified" type="xs:string"/>
+  <xs:element name="post_modified_gmt" type="xs:string"/>
+  <xs:element name="comment_status" type="xs:string"/>
+  <xs:element name="ping_status" type="xs:string"/>
+  <xs:element name="post_name" type="xs:string"/>
+  <xs:element name="status" type="xs:string"/>
+  <xs:element name="post_parent" type="xs:short"/>
+  <xs:element name="menu_order" type="xs:byte"/>
+  <xs:element name="post_type" type="xs:string"/>
+  <xs:element name="post_password" type="xs:string"/>
+  <xs:element name="is_sticky" type="xs:byte"/>
+  <xs:element name="postmeta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns:meta_key" xmlns:ns="http://wordpress.org/export/1.2/"/>
+        <xs:element ref="ns:meta_value" xmlns:ns="http://wordpress.org/export/1.2/"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="attachment_url" type="xs:string"/>
+  <xs:element name="wxr_version" type="xs:float"/>
+  <xs:element name="base_site_url" type="xs:string"/>
+  <xs:element name="base_blog_url" type="xs:string"/>
+  <xs:element name="author">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns:author_id" xmlns:ns="http://wordpress.org/export/1.2/"/>
+        <xs:element ref="ns:author_login" xmlns:ns="http://wordpress.org/export/1.2/"/>
+        <xs:element ref="ns:author_email" xmlns:ns="http://wordpress.org/export/1.2/"/>
+        <xs:element ref="ns:author_display_name" xmlns:ns="http://wordpress.org/export/1.2/"/>
+        <xs:element ref="ns:author_first_name" xmlns:ns="http://wordpress.org/export/1.2/"/>
+        <xs:element ref="ns:author_last_name" xmlns:ns="http://wordpress.org/export/1.2/"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

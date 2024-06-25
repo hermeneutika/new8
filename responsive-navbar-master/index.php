@@ -14,7 +14,8 @@
 
 <?php include 'nav1.php'; ?>
 
-<img class="slide1" src="slideshow/3.jpg" alt="hope-logo" />
+<!--<img class="slide1" src="slideshow/3.jpg" alt="hope-logo" /> -->
+<?php include 'slideshow1.htm'; ?>
 
   <?php include 'footer1.php'; ?>
 </body>

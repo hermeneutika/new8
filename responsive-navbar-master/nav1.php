@@ -49,16 +49,16 @@
                 
                 <ul class="sub-menu">
                   <li class="menu-item">
-                    <a href="#">Organisations</a>
+                    <a href="orgs1-new.php">Organisations</a>
                   </li>
                   <li class="menu-item">
-                    <a href="#">Purpose</a>
+                    <a href="purpose1.php">Purpose</a>
                   </li>
                 </ul>
               </li>
 
               <li class="menu-item">
-                <a href="#">How we work</a>
+                <a href="how1.php">How we work</a>
               </li>
             </ul>
           </li>

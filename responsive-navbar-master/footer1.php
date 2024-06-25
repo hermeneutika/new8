@@ -3,12 +3,13 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" href="css/image.css" />
+		<link rel="stylesheet" href="main.css" />
+		<link rel="stylesheet" href="style1.css" />
 		<title>Document</title>
 	</head>
 
 <footer class="footer">
-			<div class="container grid">
+			<div class="jar1 grid">
 				<div class="logo">
 				<a href="#">
         <!--<img class="logo" alt="Omnifood logo" src="img/omnifood-logo.png" /> -->

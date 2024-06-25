@@ -45,7 +45,7 @@
               </li>
               
               <li class="menu-item has-sub-menu">
-                <a href="strategy1.php">Strategic Priorities</a>
+                <a href="Strategic Priorities.php">Strategic Priorities</a>
                 
                 <ul class="sub-menu">
                   <li class="menu-item">

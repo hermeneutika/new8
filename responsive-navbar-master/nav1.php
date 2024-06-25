@@ -37,15 +37,15 @@
             <a href="eco1.php">Eco church</a>
           </li>
           <li class="menu-item has-sub-menu">
-            <a href="gallery1.php">Gallery</a>
+            <a href="gallery2.php">Gallery</a>
 
             <ul class="sub-menu">
               <li class="menu-item">
-                <a href="#">Events</a>
+                <a href="event1.php">Events</a>
               </li>
               
               <li class="menu-item has-sub-menu">
-                <a href="#">Strategic Priorities</a>
+                <a href="strategy1.php">Strategic Priorities</a>
                 
                 <ul class="sub-menu">
                   <li class="menu-item">

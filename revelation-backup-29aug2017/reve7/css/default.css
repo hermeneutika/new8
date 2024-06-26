@@ -1,0 +1,17 @@
+/* base - You can remove it*/
+body{ font: 12px/24px sans-serif; color: #666; background:#228eaf url(bck.png) center top no-repeat; }
+a{color:#FBD10B;}
+.content{background: rgba(0, 0, 0, 0.1); width:700px; margin:0 auto;  padding:20px; height:400px: -moz-border-radius: 3px 3px 3px 3px;     -webkit-border-radius: 3px 3px 3px 3px;  border:1px solid #FFF; color:#FFF;}
+.center {text-align:center;}
+.borderTop { border-top: 1px solid #eee;}
+.left{float:left; width:40%;}
+.right{float:right; width:40%;}
+.clear{clear:both;}
+h1{text-align:center; color:#FDE76F;}
+div{padding:14px;}
+pre {margin:1.5em 0;white-space:pre;}
+pre, code, tt, textarea {font:13px 'andale mono', 'lucida console', monospace;line-height:1.5; background:#228EAF; border:1px dashed #D0CEF6; width:90%; color:#FFF; height:60px;}
+li b{color:#FBD10B;}
+h4{margin:0; padding:0; color:#FBD10B;}
+
+

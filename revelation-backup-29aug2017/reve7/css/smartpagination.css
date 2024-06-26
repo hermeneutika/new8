@@ -1,0 +1,33 @@
+/* Default */
+#pagination{ text-align:center;}
+.pages { display: inline-block;    padding: 0px 9px;    margin-right: 3px;    border-radius: 2px;        box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);    font-size: .875em;    font-weight: bold;    text-decoration: none;    color: #717171;    text-shadow: 0px 1px 0px rgba(255,255,255, 1);}
+
+/*grey*/
+.pages.grey{border: solid 1px #979797 ;background: linear-gradient(to bottom, #E9E9E9 0%,#d5d5d5 100%);  color: #717171; }
+.pages.grey.active { background: #FFF;  }
+.pages.grey.ahref:hover{background: linear-gradient(to bottom, #d5d5d5 0%,#bfbfbf 100%);}
+	
+/* blue */
+.pages.blue{border: solid 1px #4f7796;background: linear-gradient(to bottom, #5ba9e6 0%,#1d67a0 100%);color: #feffff;text-shadow: 0px 1px 0px rgba(0,0,0, .5);}
+.pages.blue.active { background: #6E99E2;  box-shadow: inset 0px 0px 8px rgba(0,0,0, .1), 0px 1px 0px rgba(255,255,255, .1);}
+.pages.blue.ahref:hover{background: linear-gradient(to bottom, #002953 0%,#445e78 100%);}
+	
+/* red */
+.pages.red {border: solid 1px #964f4f;background: linear-gradient(to bottom, #e65b5b 0%,#a01d1d 100%);color: #feffff;text-shadow: 0px 1px 0px rgba(0,0,0, .5);}
+.pages.red.active { background: #e26e6e;  box-shadow: inset 0px 0px 8px rgba(0,0,0, .1), 0px 1px 0px rgba(255,255,255, .1);}
+.pages.red.ahref:hover{background: linear-gradient(to bottom, #b53333 0%,#960000 100%);}	
+	
+/* green */
+.pages.green {border: solid 1px #06AE9F;background: linear-gradient(to bottom, #3CC9A6 0%,#0ca07b 100%);color: #feffff;text-shadow: 0px 1px 0px rgba(0,0,0, .5);}
+.pages.green.active { background: #79e5ca;  box-shadow: inset 0px 0px 8px rgba(0,0,0, .1), 0px 1px 0px rgba(255,255,255, .1);}
+.pages.green.ahref:hover{background: linear-gradient(to bottom, #2fa285 0%,#197f66 100%);}	
+	
+/* orange */
+.pages.orange{border: solid 1px #D16F00;  color: #feffff;text-shadow: 0px 1px 0px rgba(0,0,0, .2);background: linear-gradient(to bottom, #FFA52A 0%,#d07e08 100%);}
+.pages.orange.active {background: #efbb70; box-shadow: inset 0px 0px 8px rgba(0,0,0, .1), 0px 1px 0px rgba(255,255,255, .1); }
+.pages.orange.ahref:hover{background: linear-gradient(to bottom, #ff6a07 0%,#da4d00 100%);}	
+
+.pages.grey.active, .pages.blue.active, .pages.red.active, .pages.green.active, .pages.orange.active{border:none; text-shadow:none;}/* all active */	
+.pages.circle{ border-radius: 12px; }	/* Circle */
+.pages.transparent{background:none;}	/* transparent */	
+.pages.grey.unline,.pages.blue.unline,.pages.red.unline,.pages.green.unline,.pages.orange.unline{box-shadow: inset 0px 1px 1px rgba(255,255,255, .1), 0px 1px 3px rgba(0,0,0, .1);}	 /* Unline */

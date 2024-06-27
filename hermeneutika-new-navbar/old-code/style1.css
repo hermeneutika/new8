@@ -1,0 +1,66 @@
+@color-accent: #247BA0;
+@color-light: #ffffff;
+@menu-link-padding: 15px 20px;
+
+/* General styling */
+nav {
+	ul,
+	li {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	a {
+		display: block;
+		text-decoration: none;
+		&:hover,
+		&:visited {
+			text-decoration: none;
+		}
+	}
+}
+
+/* Shared styles for all links*/
+.menu-link {
+	padding: @menu-link-padding;
+	background: @color-light;
+	color: @color-accent;
+	transition: background 0.2s, color 0.2s;
+	&:hover {
+		background: @color-accent;
+		color: @color-light;
+		.mega-menu & {
+			background: tint(@color-accent, 85%);
+			color: darken(@color-accent, 5%);
+		}
+	}
+	&[aria-haspopup="true"] {
+		~ ul {
+			display: none;
+		}
+	}
+}
+
+// Basic styling for the menu bar
+.menu-bar {
+	position: relative;
+	display: flex;
+	background: @color-light;
+}
+
+// Basic styling for the mega menu dropdown
+.mega-menu {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	background: @color-light;
+	overflow: hidden;
+}
+
+// Hide mobile specific elements
+.mobile-menu-trigger,
+.mobile-menu-trigger,
+.mobile-menu-back-item {
+	display: none;
+}

@@ -1,0 +1,30 @@
+/*.main-nav-list ul {
+	list-style: none;
+	text-decoration: none;
+}
+
+.main-nav-link {
+	list-style-type: none;
+	text-decoration: none;
+}
+.nav {
+	list-style-type: none;
+	text-decoration: none;
+}
+*/
+/*
+	list-style: none;
+	display: flex;
+	gap: 10rem;
+	background-color: red;
+	margin-left: 5rem;
+	margin-right: 5rem;
+}
+*/
+.sticky {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #fff;
+}

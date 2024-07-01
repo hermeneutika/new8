@@ -1,0 +1,28 @@
+comments this is the main body 
+
+7 April 2020 
+h1 
+{
+text-align:center;
+color:body;
+}
+
+h2
+{
+text-align:center;
+color:white;
+}
+
+body
+{
+background-color: blue;
+color: red;
+}
+
+/* the aboove three do the main page so far
+
+/ BELOW IS THE DIV 
+.div display
+{ 
+color: red; 
+}

@@ -1,0 +1,45 @@
+body {
+background-color: black;
+text-align:center;
+}
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+color: yellow;
+}
+h4 {
+color: yellow;
+}
+.nav {
+margin-left:30%;
+  overflow: hidden;
+  background-color: purple;
+  height: 50px;
+width: 40%;
+float:justified;
+}
+.nav a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.news a {
+
+	color: green;
+	}
+	.bible {
+	background-color:white;
+	}
+	
+	
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_topnav
+*/

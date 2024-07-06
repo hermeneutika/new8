@@ -15,9 +15,13 @@ if (!$conn) {
   die("Connection failed: " . mysqli_connect_error());
 }
 echo "Connected successfully";
+$sql="Select bible.text,ylt.text from bible,ylt where ylt.text  like '%wisdom'";
 //$sql = "SELECT n, book, chapt,verse,text FROM bible ";
-$sql = "SELECT book,n,chapt,verse,text FROM bible WHERE text like '%wisdom%'";
+//$sql = "SELECT book,n,chapt,verse,text FROM bible,ylt WHERE text like '%wisdom%'";
+//$sql2="SELECT book,n,chapt,verse,text FROM ylt WHERE text like '%wisdom%'";
+//$sql = "SELECT ylt.Book,ukjv.Book,ylt.Text,ukjv.Text FROM ylt,Ukjv  WHERE Text like '%wisdom%'";
 $result = $conn->query($sql);
+//$result2=$conn2->query($sql2);
 
 if ($result->num_rows > 0) {
   // output data of each row
@@ -34,4 +38,4 @@ $conn->close();
 
 
 
-?>
+

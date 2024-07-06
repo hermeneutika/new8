@@ -16,6 +16,7 @@ if (!$conn) {
 }
 echo "Connected successfully";
 //$sql = "SELECT n, book, chapt,verse,text FROM bible ";
+//$sql = "SELECT ylt.Book,ukjv.Book,ylt.Text,ukjv.Text FROM lt,Ukjv  WHERE Text like '%wisdom%'";
 $sql = "SELECT book,n,chapt,verse,text FROM bible WHERE text like '%wisdom%'";
 $result = $conn->query($sql);
 

@@ -12,7 +12,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	</head>
 <body>
-	<?php include 'menu1.php'; ?>
+	<?php include 'menu1.php'; ?> 
+    <h1>testing</h1>
+<p> Recent news</p>
+
 </body>
-
-

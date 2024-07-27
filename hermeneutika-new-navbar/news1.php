@@ -10,9 +10,12 @@
 			href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
 			rel="stylesheet" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<?php include 'menu1.php'; ?> 
 	</head>
 <body>
-	<?php include 'menu1.php'; ?> 
+</br>
+	<h1>test</h1>
+	
     <h1>testing</h1>
 <p> Recent news</p>
 

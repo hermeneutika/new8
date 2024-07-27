@@ -9,7 +9,7 @@ fclose($datei);
 $count=$count + 1 ;
 // this seems to have done the trick
 
-echo '<p style="color: white;> "$count"</p>' ;
+echo '<p style="color: red;> "$count"</p>' ;
 echo $count;
 echo " hits since 21 March 2024" ;
 echo "\n" ;

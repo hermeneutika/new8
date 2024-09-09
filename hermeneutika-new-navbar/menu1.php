@@ -38,7 +38,7 @@
 									</span>
 									<ul class="more-sub-menu sub-menu">
 										<li><a href="#">Science</a></li>
-										<li><a href="#">Philosophy</a></li>
+										<li><a href="philo1.php">Philosophy</a></li>
 										<li><a href="#">Sociology of knowledge</a></li>
 									</ul>
 								</li>

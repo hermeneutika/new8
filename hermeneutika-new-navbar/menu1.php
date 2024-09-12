@@ -20,6 +20,8 @@
 				<div class="nav-links">
 					<div class="sidebar-logo">
 						<span class="logo-name">HERMENEUTIKA</span>
+						<?php include 'counter2.php'; ?>
+
 						<i class="bx bx-x"></i>
 					</div>
 					<ul class="links">

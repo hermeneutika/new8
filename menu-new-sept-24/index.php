@@ -102,6 +102,7 @@ document.addEventListener("click", closeSubmenu, false);
 
 </script>
 
+<<<<<<< HEAD
 /* REST OF THE SITE */
 
 <div class="container">
@@ -117,5 +118,8 @@ document.addEventListener("click", closeSubmenu, false);
 
 
 
+=======
+  
+>>>>>>> 4f285bb75036dd08134c76fc1ae2c8e621d927c2
 </body>
 </html>

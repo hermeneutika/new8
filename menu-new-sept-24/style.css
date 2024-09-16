@@ -3,7 +3,10 @@
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
+<<<<<<< HEAD
 	color:white;
+=======
+>>>>>>> 4f285bb75036dd08134c76fc1ae2c8e621d927c2
 }
 body {
 	font-family: sans-serif;
@@ -12,11 +15,15 @@ body {
 nav {
 	background: #222;
 	padding: 0 15px;
+<<<<<<< HEAD
 	width:100%;
+=======
+>>>>>>> 4f285bb75036dd08134c76fc1ae2c8e621d927c2
 }
 a {
 	color: white;
 	text-decoration: none;
+<<<<<<< HEAD
 
 }
 
@@ -29,6 +36,9 @@ a {
 }
 
 
+=======
+}
+>>>>>>> 4f285bb75036dd08134c76fc1ae2c8e621d927c2
 .menu,
 .submenu {
 	list-style-type: none;

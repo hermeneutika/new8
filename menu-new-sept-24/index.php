@@ -12,14 +12,17 @@
   <link rel="stylesheet" href="counter.css" 
 </head>
 <body>
-<div>Website visit count:</div>
-  <div class="website-counter"></div>
-  <!--<button id="reset">Reset</button>-->
+
 <nav>
 
 
   <ul class="menu">
     <li class="logo"><a href="#">THEODICY</a></li>
+    <li>
+    <div>Website visit count:</div>
+  <div class="website-counter"></div>
+  <!--<button id="reset">Reset</button>-->
+    </li>
     <li class="item"><a href="#">Home</a></li>
     <li class="item"><a href="#">About</a></li>
     <li class="item has-submenu">

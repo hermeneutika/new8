@@ -10,7 +10,10 @@
 			href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
 			rel="stylesheet" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<?php include 'counter.php'; ?>
+		<!--<?php include 'counter.php'; ?> -->
+		<title>Website Counter</title>
+  <script defer src="index.js"></script>
+  <link rel="stylesheet" href="counter.css
 	</head>
 	<body>
 		<nav>
@@ -20,6 +23,8 @@
 				<div class="nav-links">
 					<div class="sidebar-logo">
 						<span class="logo-name">HERMENEUTIKA</span>
+						<!--<?php include 'counter2.php'; ?> -->
+
 						<i class="bx bx-x"></i>
 					</div>
 					<ul class="links">
@@ -38,7 +43,7 @@
 									</span>
 									<ul class="more-sub-menu sub-menu">
 										<li><a href="#">Science</a></li>
-										<li><a href="#">Philosophy</a></li>
+										<li><a href="philo1.php">Philosophy</a></li>
 										<li><a href="#">Sociology of knowledge</a></li>
 									</ul>
 								</li>

@@ -20,13 +20,12 @@
 				<div class="nav-links">
 					<div class="sidebar-logo">
 						<span class="logo-name">HERMENEUTIKA</span>
-					<li><div class="counter">Website visit count:</div>
-  <div class="website-counter"></div>
-  <!--<button id="reset">Reset</button>--></li>
-
 						<i class="bx bx-x"></i>
 					</div>
 					<ul class="links">
+					<div class="counter">Website visit count:</div>
+  <div class="website-counter"></div>
+  <!--<button id="reset">Reset</button>-->
 						<li><a href="index.php">HOME</a></li>
 						<li>
 							<a href="input.php">Bible</a>
@@ -70,6 +69,6 @@
 				</div>
 			</div>
 		</nav>
-		<script src="script.js"></script>
+		
 	</body>
 </html>

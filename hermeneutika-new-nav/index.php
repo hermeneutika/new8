@@ -5,6 +5,7 @@
 		<meta charset="UTF-8" />
 		<title>Responsive Drop Down Navigation Menu | CodingLab</title>
 		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="counter.css" />
 		<title>Website Counter</title>
   <script defer src="index.js"></script>
   <link rel="stylesheet" href="styles.css" 
@@ -17,9 +18,7 @@
 <body>
 	<h1>this is a test</h1>
 	<body>
-  <div>Website visit count:</div>
-  <div class="website-counter"></div>
-  <!--<button id="reset">Reset</button>-->
+  
 </body>
 	
 	<?php include 'menu1.php'; ?>

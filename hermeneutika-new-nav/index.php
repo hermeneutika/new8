@@ -8,20 +8,24 @@
 		<link rel="stylesheet" href="counter.css" />
 		<title>Website Counter</title>
   <script defer src="index.js"></script>
-  <link rel="stylesheet" href="styles.css" 
 		<!-- Boxicons CDN Link -->
 		<link
 			href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
 			rel="stylesheet" /> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<?php include 'menu1.php'; ?>
 	</head>
 <body>
-	<h1>this is a test</h1>
-	<body>
-  
-</body>
+
+<div class="container1">
+<div class="one">one</div>
+<div class="two">two</div>
+<div class="three">three</div>
+
+
+</div>
 	
-	<?php include 'menu1.php'; ?>
+	
 	
 </body>
 

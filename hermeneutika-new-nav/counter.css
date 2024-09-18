@@ -13,14 +13,14 @@ body {
 
 /* Styles for website counter container */
 .website-counter {
-	background-color: #ff4957;
-	height: 50px;
-	width: 80px;
+	background-color: #49ff8f;
+	height: 25px;
+	width: 40px;
 	color: white;
-	border-radius: 30px;
+	/*border-radius: 30px; */
 	font-weight: 700;
-	font-size: 25px;
-	margin-top: 10px;
+	font-size: 15px;
+	margin-top: 5px;
 }
 .counter {
 	color: white;

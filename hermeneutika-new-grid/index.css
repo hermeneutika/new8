@@ -32,6 +32,7 @@ div.header {
 div.footer {
 	background: rgb(0, 0, 0, 0.2);
 	grid-area: foot;
+	background-color: yellow;
 }
 div.panel {
 	/* div elements with "panel" class */
@@ -40,13 +41,15 @@ div.panel {
 div.panel.left {
 	/* with both "panel" and "left" class */
 	grid-area: panleft;
+	background-color: green;
 }
 div.panel.right {
 	grid-area: panright;
 }
 div.mainbody {
 	grid-area: mainbody;
-	width: 30rem; /* mainbody width is fixed */
+
+	width: 70rem; /* mainbody width is fixed */
 	justify-self: center; /* and always centered in grid area */
 }
 @media screen and (max-width: 50rem) {
@@ -63,5 +66,9 @@ div.mainbody {
 	div.mainbody {
 		grid-column-start: left; /* mainbody starts at left edge */
 		grid-column-end: right; /* mainbody ends at right edge */
+		background-color: blue;
 	}
+}
+.mainbody {
+	background-color: blue;
 }

@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+		<html lang="en">
+		<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Document</title>
+			<link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="counter.css">
+		<script defer src="index.js"></script>
+		</head>
+		<body>
+
+
 <nav>
 			<div class="navbar">
 				<i class="bx bx-menu"></i>
@@ -56,3 +70,6 @@
 				</div>
 			</div>
 		</nav>
+			
+		</body>
+		</html>

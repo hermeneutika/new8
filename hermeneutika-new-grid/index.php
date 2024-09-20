@@ -8,10 +8,10 @@
     <meta charset="utf-8">
     <title>Title</title>
     
-    <link rel="stylesheet" href="index.css">
-    <link rel="stylesheet" href="style.css">
+    
   </head>
-  <>
+  <><link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="style.css">
     <div class="container">
       <div class="header">Header
 <?php include 'nav1.php' ?>

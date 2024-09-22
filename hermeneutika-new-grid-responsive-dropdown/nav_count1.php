@@ -35,7 +35,7 @@
       <a href="#">Prophecy</a>
     </div>
   </div> 
-  <a href="#about">About</a>
+  <a href="israel1.php">Israel</a>
 
   <div>since 20/09/24 count:</div>
 

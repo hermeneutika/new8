@@ -4,7 +4,7 @@
   <a href="#news">Philosophy</a>
   <a href="#news">Theology</a>
   <div class="dropdown">
-    <button class="dropbtn">Dropdown 
+    <button class="dropbtn">Music 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">

@@ -6,7 +6,14 @@
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
 	<META NAME="CREATED" CONTENT="20240922;11154318">
 	<META NAME="CHANGED" CONTENT="20240922;11352430">
+	
+	<link rel="stylesheet" href="style.css">
+	<!--
+<link rel="stylesheet" href="index.css">
+-->
 	<STYLE TYPE="text/css">
+		
+		
 	<!--
 		@page { margin: 2cm }
 		P { margin-bottom: 0.21cm }
@@ -15,6 +22,8 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<?php include 'nav_count1.php' ?>
+
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Israel</FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>

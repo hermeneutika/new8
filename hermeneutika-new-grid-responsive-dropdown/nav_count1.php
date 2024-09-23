@@ -1,5 +1,5 @@
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">hermeneutika</a>
+  <a href="index.php" class="active">hermeneutika</a>
   <a href="news1.php">News</a>
   <a href="#news">Philosophy</a>
   <a href="#news">Theology</a>
@@ -13,13 +13,13 @@
       <a href="#">Link 3</a>
     </div>
   </div> 
-  <a href="#contact">Music</a>
+  <a href="war1.php">War</a>
   <div class="dropdown">
-    <button class="dropbtn">Dropdown 
+    <button class="dropbtn">Finance/Economics
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
+      <a href="econ1.php">Economics</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>

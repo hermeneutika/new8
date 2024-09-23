@@ -21,7 +21,14 @@
 
       </div>
       <div class="panel left">Left panel</div>
-      <div class="mainbody">Main Body</div>
+      <div class="mainbody">
+        <br>
+      <h3>ALL MATERIAL THINGS ARE SUBJECT TO DECAY THEREFORE WORK OUT YOUR SALVATION WITH DILIGENCE</h3>
+      <p>Guatama Buddha</p>
+      <br>
+    <H3>Php 2:12  Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.</H3>
+    <p>The Triune Godhead</p>
+    </div>
       <div class="panel right content">Right panel</div>
       <div class="footer">Footer</div>
     </div>

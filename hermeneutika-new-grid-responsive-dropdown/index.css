@@ -52,6 +52,9 @@ div.mainbody {
 	width: 70rem; /* mainbody width is fixed */
 	justify-self: center; /* and always centered in grid area */
 }
+h3.mainbody {
+	font-size: 400%;
+}
 @media screen and (max-width: 50rem) {
 	/* if viewport width < 50rem */
 	div.panel.left {
@@ -71,4 +74,6 @@ div.mainbody {
 }
 .mainbody {
 	background-color: blue;
+	font-size: 200%;
+	color: white;
 }

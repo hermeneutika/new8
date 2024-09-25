@@ -12,7 +12,9 @@
     <div class="container">
       <div class="header">Header</div>
       <div class="panel left">Left panel</div>
-      <div class="mainbody">Main body</div>
+      <div class="mainbody">ok this is the main body text.....ALL MATERIAL THINGS ARE SUBJECT TO DECAY THEREFORE WORK OUT YOUR SALVATION WITH DILIGENCE
+
+Guatama Buddha.</div>
       <div class="panel right">Right panel</div>
       <div class="footer">Footer</div>
     </div>

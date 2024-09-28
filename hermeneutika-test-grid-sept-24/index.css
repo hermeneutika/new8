@@ -45,3 +45,8 @@ html {
   div.mainbody {
     grid-area: mainbody;
   }
+
+  .mainbody {
+    background-color: blue;
+    color: white;
+  }

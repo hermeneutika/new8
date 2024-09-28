@@ -18,11 +18,11 @@ div.container {
 	display: grid;
 	width: 100%;
 	height: 100%; 
-	grid-template-columns: 1fr 2fr 1fr;
-  grid-template-rows: 1fr 3fr 1fr;
-	/*grid-template-columns: [left] 10rem auto 10rem [right]; 
+	/* grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 1fr 3fr 1fr; */
+	grid-template-columns: [left] 10rem auto 10rem [right]; 
 	/*grid-template-columns: auto minmax(0, 1fr); */
-	/*grid-template-rows: [top] 5rem auto 5rem [bottom]; */
+	grid-template-rows: [top] 5rem auto 5rem [bottom]; 
 	grid-template-areas:
 		"head head head"
 		"panleft mainbody panright"

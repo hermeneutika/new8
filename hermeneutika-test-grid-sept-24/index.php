@@ -14,9 +14,9 @@
       <div class="header">Header <?php include 'nav_count1.php' ?></div>
       <div class="panel left">
         CURRENT MUSIC VIDS
-      
+        <p>Metal Praise</p>    
 <video width="320" height="240" controls>
-  <source src="gunshow.mp4#t=0.1" type="video/mp4">
+  <source src="metal1.mp4#t=0.1" alt="Metal praise"type="video/mp4">
 </video>
       
       

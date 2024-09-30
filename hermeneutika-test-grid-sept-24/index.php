@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="index.css">
   <link rel="stylesheet" href="style.css">
   <title>Document</title>
+  <script defer src="index.js"></script>
+  <!--<link rel="stylesheet" href="counter.css" /> -->
 </head>
 <body>
 <body>
@@ -20,7 +22,7 @@
 </video>
       
       
-      Left panel</div>
+      </div>
       <div class="mainbody">ALL MATERIAL THINGS ARE SUBJECT TO DECAY THEREFORE WORK OUT YOUR SALVATION WITH DILIGENCE
 
 Guatama Buddha. <br> <br>    Only the dead have seen the end of war  attributed to Plato

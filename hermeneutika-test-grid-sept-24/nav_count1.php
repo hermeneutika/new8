@@ -51,7 +51,7 @@
 
   <div>since 20/09/24 count:</div>
 
-  <div class="website-counter align-right color=white"></div>
+  <div class="website-counter"></div>
   <!--<button id="reset">Reset</button>-->
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>

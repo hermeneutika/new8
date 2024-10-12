@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	font-family: Arial;
-	color:yellow;
+	color:black;
 }
 
 .topnav {
@@ -128,3 +128,56 @@ img {
   img:hover {
 	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   }
+
+  .vid-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/*.video {
+    flex: 1;
+    min-width: 300px; /* Adjust this value based on your needs */
+  /*  margin: 10px;
+}
+.flext-container {
+-ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.row            { 
+  -webkit-flex-direction: row; 
+  flex-direction: row;
+}
+
+.flex-item {
+	background: tomato;
+	padding: 5px;
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+	
+	line-height: 50px;
+	color: white;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: right;
+  }
+  */
+.container2 {
+	display: flex;
+	
+
+}
+
+.szaz-text {
+	font-size: 10px;;
+}
+/*.flex-item {
+	display:flex;
+}
+	*/

@@ -1,8 +1,18 @@
 <div class="topnav" id="myTopnav">
   <a href="index.php" class="active">hermeneutika</a>
-  <a href="news1.php">News</a>
   <div class="dropdown">
-  
+    <button class="dropbtn">News 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">power</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div> 
+
+
+  <div class="dropdown">
     <button class="dropbtn">Philosopy
       <i class="fa fa-caret-down"></i>
     </button>
@@ -13,8 +23,9 @@
     </div>
   </div> 
   
-  
   <a href="#news">Theology</a>
+
+
   <div class="dropdown">
     <button class="dropbtn">Music 
       <i class="fa fa-caret-down"></i>

@@ -17,14 +17,16 @@
       <div class="panel left">
         CURRENT MUSIC VIDS
         <p>Metal Praise or Hardcore?</p>    
-<video width="320" height="240" controls>
+<!--<video width="320" height="240" controls>
   <source src="metal1.mp4#t=5.7" alt="Metal praise"type="video/mp4">
   
-</video>
-<video width="320" height="240" controls="controls" preload="metadata">
+</video>-->
+<iframe width="360" height="215" src="https://www.youtube.com/embed/dgNNl-5b-5A?si=FLGcBR13sxwV9ne6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<video width="320" height="240" controls="controls" preload="metadata">
 <source src="gunshow.mp4#t=0.4" alt="in this moment" type="video/mp4">
 </video>
-
+-->
+<iframe width="360" height="215" src="https://www.youtube.com/embed/-DMyFLfZLoM?si=bFsWGw2ukAjAXukm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
       <div class="mainbody">ALL MATERIAL THINGS ARE SUBJECT TO DECAY THEREFORE WORK OUT YOUR SALVATION WITH DILIGENCE
 

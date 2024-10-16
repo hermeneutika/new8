@@ -15,8 +15,8 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
-<P>&lt;?php include 'navbar.php' ?&gt; 
-</P>
+<?php include 'navbar.php'; ?> 
+
 <P STYLE="margin-bottom: 0cm"><FONT SIZE=5>23 September 24</FONT></P>
 <P STYLE="margin-bottom: 0cm"><BR>
 </P>

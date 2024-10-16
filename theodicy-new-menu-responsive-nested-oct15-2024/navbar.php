@@ -22,7 +22,7 @@
           <i class='bx bx-x' ></i>
         </div>
         <ul class="links">
-          <li><a href="#">HOME</a></li>
+          <li><a href="index.php">HOME</a></li>
           <li>
             <a href="#">Theology</a>
             <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
@@ -43,11 +43,42 @@
               </li>
             </ul>
           </li>
+
           <li>
             <a href="#">Philosophy</a>
             <i class='bx bxs-chevron-down js-arrow arrow '></i>
             <ul class="js-sub-menu sub-menu">
-              <li><a href="exist2.php">Existentialism</a></li>
+              <li><a href="exist1.php">Existentialism</a></li>
+              <li><a href="#">Form Validation</a></li>
+              <li><a href="#">Card Slider</a></li>
+              <li><a href="#">Complete Website</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">Philosophy</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+              <li><a href="exist1.php">Existentialism</a></li>
+              <li><a href="#">Form Validation</a></li>
+              <li><a href="#">Card Slider</a></li>
+              <li><a href="#">Complete Website</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">Science</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+              <li><a href="energy1.php">Energy</a></li>
+              <li><a href="fusion1.php">Nuclear Fusion</a></li>
+              <li><a href="#">Card Slider</a></li>
+              <li><a href="#">Complete Website</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">Philosophy</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+              <li><a href="exist1.php">Existentialism</a></li>
               <li><a href="#">Form Validation</a></li>
               <li><a href="#">Card Slider</a></li>
               <li><a href="#">Complete Website</a></li>

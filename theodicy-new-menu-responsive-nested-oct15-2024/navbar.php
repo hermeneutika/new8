@@ -24,7 +24,7 @@
         <ul class="links">
           <li><a href="#">HOME</a></li>
           <li>
-            <a href="#">HTML & CSS</a>
+            <a href="#">Theology</a>
             <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
             <ul class="htmlCss-sub-menu sub-menu">
               <!--<li><a href="theodicy-new-menu-responsive-nested-oct15-2024/hermeneutika-old.uk/">Old Site</a></li> -->
@@ -44,10 +44,10 @@
             </ul>
           </li>
           <li>
-            <a href="#">JAVASCRIPT</a>
+            <a href="#">Philosophy</a>
             <i class='bx bxs-chevron-down js-arrow arrow '></i>
             <ul class="js-sub-menu sub-menu">
-              <li><a href="#">Dynamic Clock</a></li>
+              <li><a href="exist2.php">Existentialism</a></li>
               <li><a href="#">Form Validation</a></li>
               <li><a href="#">Card Slider</a></li>
               <li><a href="#">Complete Website</a></li>

@@ -15,34 +15,34 @@
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <div class="dropdown">
-    <button class="dropbtn">Dropdown1 
+    <button class="dropbtn">Theodicy 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
+      <a href="#">Augustine</a>
+      <a href="#">Irenaeus</a>
       <a href="#">Link 3</a>
     </div>
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">Dropdown2
+    <button class="dropbtn">Philosophy
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
+      <a href="#">Existentialism</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Dropdown3 
+    <button class="dropbtn">Sciences
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="#">High Energy Physics</a>
+      <a href="#">Mathematics</a>
+      <a href="#">Biology?</a>
     </div>
   </div> 
   <div class="dropdown">
@@ -70,7 +70,7 @@
 </div>
 
 <div style="padding-left:16px">
-  <h2>Responsive Topnav with Dropdown</h2>
+  <h2>Theodicy the problem of evil and suffering</h2>
   <p>Resize the browser window to see how it works.</p>
   <p>Hover over the dropdown button to open the dropdown menu.</p>
 </div>

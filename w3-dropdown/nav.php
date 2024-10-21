@@ -5,11 +5,21 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="grail.css" />
+<<<<<<< HEAD
+=======
+<style>
+
+</style>
+>>>>>>> d95fdf617b389946dc3c6752811ad2604c15f6f1
 </head>
 <body>
 
 <div class="topnav" id="myTopnav">
+<<<<<<< HEAD
   <a href="index.php" class="active">Home</a>
+=======
+  <a href="#home" class="active">Home</a>
+>>>>>>> d95fdf617b389946dc3c6752811ad2604c15f6f1
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <div class="dropdown">
@@ -19,7 +29,11 @@
     <div class="dropdown-content">
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>
+<<<<<<< HEAD
       <a href="hicks1.php">Hicks!</a>
+=======
+      <a href="#">Link 3</a>
+>>>>>>> d95fdf617b389946dc3c6752811ad2604c15f6f1
     </div>
   </div> 
   
@@ -54,18 +68,29 @@
     </div>
   </div> 
   <div class="dropdown">
+<<<<<<< HEAD
     <button class="dropbtn">Women 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
       <a href="women1.php">Links about women</a>
+=======
+    <button class="dropbtn">Dropdown5 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+>>>>>>> d95fdf617b389946dc3c6752811ad2604c15f6f1
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
   </div> 
   <a href="#about">About</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+<<<<<<< HEAD
   <?php include 'counter.php'; ?>
+=======
+>>>>>>> d95fdf617b389946dc3c6752811ad2604c15f6f1
 </div>
 <!--
 <div style="padding-left:16px">

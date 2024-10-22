@@ -22,7 +22,6 @@
             <img src="myth1.jpeg" width="200px" height="200px" alt="mytho f mental illness image">
         </div>
         <main class="main">
-<<<<<<< HEAD
             The Word of God is the total solution<br>
            Gen 2:17  But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.<br>
 
@@ -41,13 +40,6 @@
             I am having more text<br>
             <img src="bible.jpg" width="200px" height="200px" alt="bible photo">
             <img src="interp1.jpg" width="200px" height="200px" alt="interpretation of the NT">
-=======
-            The Word of God is the total solution
-        </main>
-        <div class="right-sidebar">
-            I am right sidebar and
-            I am having more text
->>>>>>> d95fdf617b389946dc3c6752811ad2604c15f6f1
         </div>
         <footer>I am footer</footer>
     </div>

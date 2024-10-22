@@ -78,7 +78,7 @@
   </div> 
   <a href="#about">About</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-  
+  <?php include 'counter.php'; ?>
 </div>
 <!--
 <div style="padding-left:16px">

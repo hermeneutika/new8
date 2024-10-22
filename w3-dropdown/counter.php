@@ -22,3 +22,4 @@ fwrite($datei, $count);
 fclose($datei);
 
 
+?>

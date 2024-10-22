@@ -5,14 +5,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="grail.css" />
-<style>
-
-</style>
 </head>
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
+  <a href="index.php" class="active">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <div class="dropdown">
@@ -22,7 +19,7 @@
     <div class="dropdown-content">
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>
-      <a href="#">Link 3</a>
+      <a href="hicks1.php">Hicks!</a>
     </div>
   </div> 
   
@@ -47,27 +44,38 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Theos Logos 
+    <button class="dropbtn">Jesus the Christ 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Hermeneutics</a>
+      <a href="jesus1.php">Jesus</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Dropdown5 
+    <button class="dropbtn">Women 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
+      <a href="women1.php">Links about women</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
   </div> 
+  <div class="dropdown">
+    <button class="dropbtn">Misc 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="sf1.php">Science Fiction</a>
+      <a href="12.php">12 Steps</a>
+      <a href="music1.php">Music</a>
+    </div>
+  </div> 
   <a href="#about">About</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+  <?php include 'counter.php'; ?>
 </div>
 <!--
 <div style="padding-left:16px">

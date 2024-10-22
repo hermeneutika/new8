@@ -4,10 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="grail.css" />
+    <link rel="stylesheet" type="text/css" href="grail.css" />
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <?php include 'nav.php'; ?>
+
+
+
+<?php include 'nav.php'; ?>
+    
     <?php include 'grail1.php'; ?>
+
+
 </body>
 </html>

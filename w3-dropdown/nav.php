@@ -69,14 +69,11 @@
     </button>
     <div class="dropdown-content">
       <a href="sf1.php">Science Fiction</a>
-<<<<<<< HEAD
+
       <a href="cv1.php">The CV</a>
       <a href="music1.php">Music</a>
       <a href="books1.php">Books</a>
-=======
-      <a href="12.php">The CV</a>
-      <a href="music1.php">Music</a>
->>>>>>> 050b74426c1ddb7d68aaa31bb97734babc8ba882
+    
     </div>
   </div> 
   <a href="#about">About</a>

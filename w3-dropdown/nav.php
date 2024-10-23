@@ -49,7 +49,7 @@
     </button>
     <div class="dropdown-content">
       <a href="jesus1.php">Jesus</a>
-      <a href="#">Link 2</a>
+      <a href="bible1.php">The Bible</a>
       <a href="#">Link 3</a>
     </div>
   </div> 
@@ -69,8 +69,9 @@
     </button>
     <div class="dropdown-content">
       <a href="sf1.php">Science Fiction</a>
-      <a href="12.php">12 Steps</a>
+      <a href="cv1.php">The CV</a>
       <a href="music1.php">Music</a>
+      <a href="music1.php">The 12 Steps</a>
     </div>
   </div> 
   <a href="#about">About</a>

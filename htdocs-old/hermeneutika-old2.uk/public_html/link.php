@@ -10,8 +10,8 @@
 
 //open database
 $host="localhost";
-$user="michael";
-$password="Messier81!";
+$user="michael2";
+$password="A7ndromeda!1";
 $db="rev";
 // open database
 $link =  mysqli_connect($host,$user,$password,$db);

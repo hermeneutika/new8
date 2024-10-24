@@ -11,7 +11,7 @@ $count=$count + 1 ;
 
 echo '<p style="color: white;> "$count"</p>' ;
 echo $count;
-echo " hits" ;
+echo " hits since 21 March 2024" ;
 echo "\n" ;
 // '<p style="color: red; text-align: center">
 //      Request has been sent. Please wait for my reply!
@@ -21,4 +21,4 @@ $datei = fopen("countlog.txt","w");
 fwrite($datei, $count);
 fclose($datei);
 
-?>
+

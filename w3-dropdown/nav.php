@@ -71,6 +71,7 @@
       <a href="sf1.php">Science Fiction</a>
       <a href="cv1.php">The CV</a>
       <a href="music1.php">Music</a>
+      <a href="news1.php">News</a>
       <a href="music1.php">The 12 Steps</a>
     </div>
   </div> 

@@ -10,23 +10,22 @@
 	<!--
 		@page { margin: 2cm }
 		P { margin-bottom: 0.21cm }
-		P.western { so-language: en-GB }
 		A:link { so-language: zxx }
 	-->
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
-<?php include 'news1.php'; ?>
-<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>News</FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+<p> testing</p>
+<P STYLE="margin-bottom: 0cm"><FONT SIZE=5>News</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><A HREF="https://www.thetimes.com/article/adriana-brownlee-becomes-youngest-woman-to-conquer-the-14-peaks-t5kzjcdn5">https://www.thetimes.com/article/adriana-brownlee-becomes-youngest-woman-to-conquer-the-14-peaks-t5kzjcdn5</A></FONT></P>
-<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+<P STYLE="margin-bottom: 0cm"><FONT SIZE=5><A HREF="https://www.thetimes.com/article/adriana-brownlee-becomes-youngest-woman-to-conquer-the-14-peaks-t5kzjcdn5">https://www.thetimes.com/article/adriana-brownlee-becomes-youngest-woman-to-conquer-the-14-peaks-t5kzjcdn5</A></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+<P STYLE="margin-bottom: 0cm"><BR>
 </P>
-<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>The
-amazing achievement of one so young. </FONT>
+<P STYLE="margin-bottom: 0cm"><FONT SIZE=5>The amazing achievement of
+one so young. </FONT>
 </P>
 </BODY>
 </HTML>

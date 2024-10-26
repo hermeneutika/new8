@@ -54,13 +54,13 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Islam 
+    <button class="dropbtn">music
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
       <a href="women1.php">Links about women</a>
       <a href="islam1.php">Islam </a>
-      <a href="#">Link 3</a>
+      <a href="musvid1.php">Music vids</a>
     </div>
   </div> 
   <div class="dropdown">

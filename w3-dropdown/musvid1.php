@@ -16,6 +16,8 @@
 <BODY LANG="en-GB" DIR="LTR">
 <?php include 'nav.php'; ?>
 <iframe width="160" height="115" src="https://www.youtube.com/embed/ssR5qzz-iWU?si=xWwFg1VNIrY1NK2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<iframe width="160" height="115" src="https://www.youtube.com/embed/H4vt-kA22bY?si=vobvAJCvoIUVDXvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		<iframe width=160" height="115" src="https://www.youtube.com/embed/NXQHCSGgAiE?si=Bryn3ItBZMPUOVyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <P STYLE="margin-bottom: 0cm">Music Videos</P>
 <P STYLE="margin-bottom: 0cm"><BR>
 </P>

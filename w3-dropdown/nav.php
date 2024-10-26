@@ -50,7 +50,8 @@
     <div class="dropdown-content">
       <a href="jesus1.php">Jesus</a>
       <a href="bible1.php">The Bible</a>
-      <a href="#">Link 3</a>
+      <a href="false1.php">Deception</a>
+      <a href="romans1.php">Romans</a>
     </div>
   </div> 
   <div class="dropdown">

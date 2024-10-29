@@ -10,13 +10,14 @@
 
 <div class="topnav" id="myTopnav">
   <a href="index.php" class="active">Home</a>
-  <a href="#news">News</a>
+  <a href="tommy1.php">Tommy Robinson</a>
   <a href="#contact">Contact</a>
   <div class="dropdown">
     <button class="dropbtn">Theodicy 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="theodicy1.php">Theodicy</a>
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>
       <a href="hicks1.php">Hicks!</a>

@@ -6,6 +6,9 @@
 $datei = fopen("countlog.txt","r");
 $count = fgets($datei,1000);
 fclose($datei);
+fwrite($datei, $count);
+fclose($datei);
+
 $count=$count + 1 ;
 // this seems to have done the trick
 
@@ -18,7 +21,4 @@ echo "\n" ;
 //      </p>'; sample code line 
 // opens countlog.txt to change new hit number
 $datei = fopen("countlog.txt","w");
-fwrite($datei, $count);
-fclose($datei);
-
 

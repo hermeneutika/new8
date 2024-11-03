@@ -29,6 +29,7 @@ header {
 }
 
 .left-sidebar {
+    height:50%;
     grid-column: 1 / 2;
     background-color: green;
 }

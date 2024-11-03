@@ -41,7 +41,12 @@
             <img src="bible.jpg" width="200px" height="200px" alt="bible photo">
             <img src="interp1.jpg" width="200px" height="200px" alt="interpretation of the NT">
         </div>
-        <footer>I am footer</footer>
+        <footer>I am footer
+
+        <a href="mailto:theodicy@michael.myzen.co.uk">Send email</a>
+
+        </footer>
+
     </div>
 </body>
 

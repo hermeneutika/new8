@@ -66,6 +66,8 @@
       <a href="bible1.php">The Bible</a>
       <a href="false1.php">Deception</a>
       <a href="romans1.php">Romans</a>
+      <a href="heal1.php">Healing</a>
+      <a href="prophecy1.php">Prophecy</a>
     </div>
   </div> 
   <div class="dropdown">

@@ -6,14 +6,12 @@
 $datei = fopen("countlog.txt","r");
 $count = fgets($datei,1000);
 fclose($datei);
-
-
 $count=$count + 1 ;
 // this seems to have done the trick
 
 echo '<p style="color: white;> "$count"</p>' ;
 echo $count;
-echo " hits since 22 Oct 2024" ;
+echo " hits since 21 March 2024" ;
 echo "\n" ;
 // '<p style="color: red; text-align: center">
 //      Request has been sent. Please wait for my reply!
@@ -22,7 +20,3 @@ echo "\n" ;
 $datei = fopen("countlog.txt","w");
 fwrite($datei, $count);
 fclose($datei);
-
-
-
-

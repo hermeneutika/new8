@@ -52,7 +52,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Existentialism</a>
+      <a href="exist1.php">Existentialism</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>

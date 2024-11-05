@@ -35,17 +35,6 @@
       <a href="hicks1.php">Hicks!</a>
     </div>
   </div> 
-  <div class="dropdown">
-    <button class="dropbtn">Prophecy 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="revelation1.php">Revelation</a>
-      <a href="#">Augustine</a>
-      <a href="#">Irenaeus</a>
-      <a href="hicks1.php">Hicks!</a>
-    </div>
-  </div> 
   
   <div class="dropdown">
     <button class="dropbtn">Philosophy
@@ -73,7 +62,7 @@
     </button>
     <div class="dropdown-content">
       <a href="jesus1.php">Jesus</a>
-      <a href="violence1.php">Pacifism</a>
+      <a href="violence1.php">Non Violence</a>
       <a href="bible1.php">The Bible</a>
       <a href="false1.php">Deception</a>
       <a href="romans1.php">Romans</a>

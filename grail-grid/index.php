@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="container">
-      <div class="header">Header</div>
+      <div class="header"><?php include 'nav.php' ?>Header</div>
       <div class="panel left">Left panel</div>
       <div class="mainbody">Main Body</div>
       <div class="panel right content">Right panel</div>

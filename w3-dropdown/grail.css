@@ -20,6 +20,7 @@ footer,
 main,
 .right-sidebar {
     padding: 10px;
+    height:10%;
 }
 
 header {
@@ -29,7 +30,7 @@ header {
 }
 
 .left-sidebar {
-    height:50%;
+    height:100%;
     grid-column: 1 / 2;
     background-color: green;
 }
@@ -37,7 +38,7 @@ header {
 main {
     grid-column: 2 / 3;
     background-color: plum;
-    
+height:50%;
 }
 
 .right-sidebar {
@@ -53,6 +54,7 @@ footer {
 .main {
 font-size: large;
 text-align: center;
+height:50%;
 
 }
 @media (max-width: 768px) {

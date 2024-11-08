@@ -25,6 +25,7 @@ div.container {
 div.header {
   background: rgb(0, 0, 0, 0.2);                             /* 20% black */
   grid-area: head;                /* head corresponds to name in template */
+  background-color: red;
 }
 div.footer {
   background: rgb(0, 0, 0, 0.2);
@@ -35,6 +36,8 @@ div.panel {                            /* div elements with "panel" class */
 }
 div.panel.left {                    /* with both "panel" and "left" class */
   grid-area: panleft;
+  background-color: green;
+  height:50%;
 }
 div.panel.right {
   grid-area: panright;

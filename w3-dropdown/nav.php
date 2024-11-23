@@ -11,6 +11,18 @@
 <div class="topnav" id="myTopnav">
   <a href="index.php" class="active">Home</a>
   <div class="dropdown">
+    <button class="dropbtn">Child abuse 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+    <a href="tim1.php">Church of England</a>
+      <a href="#">Roman Catholicism</a>
+      <a href="#">others</a>
+      <a href="abuse1.php">Reports</a>
+      <a href="tommy1.php"></a>
+    </div>
+  </div> 
+  <div class="dropdown">
     <button class="dropbtn">The Law 
       <i class="fa fa-caret-down"></i>
     </button>
@@ -23,7 +35,18 @@
     </div>
   </div> 
   
-  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Inerrancy
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+    <a href="chicargo.pdf">Inerrancy</a>
+      <a href="#">Hermeneutics</a>
+      <a href="#">Application</a>
+      <a href="https://www.moodybible.org/beliefs/chicago-statement-biblical-inerrancy/">Moody Institute</a>
+      <a href="39.pdf">Church of England</a>
+    </div>
+  </div> 
   <div class="dropdown">
     <button class="dropbtn">Theodicy 
       <i class="fa fa-caret-down"></i>
@@ -69,17 +92,31 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Jesus the Christ 
+    <button class="dropbtn">Jesus
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
       <a href="jesus1.php">Jesus</a>
       <a href="violence1.php">Pacifism</a>
+      
+
       <a href="bible1.php">The Bible</a>
       <a href="false1.php">Deception</a>
       <a href="romans1.php">Romans</a>
       <a href="heal1.php">Healing</a>
       <a href="prophecy1.php">Prophecy</a>
+      <a href="give1.php">Christian giving</a>
+      <div class="dropdown">
+    <button class="dropbtn">music
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="women1.php">Links about women</a>
+      <a href="islam1.php">Islam </a>
+      <a href="musvid1.php">Music vids</a>
+    </div>
+  </div> 
+
     </div>
   </div> 
   <div class="dropdown">

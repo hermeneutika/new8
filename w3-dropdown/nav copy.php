@@ -143,13 +143,12 @@
   </div> 
   <a href="#about">About</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-  
+  <?php
 
-
+include("counter.php");
 
 ?>
 </div>
-<?php include("counter.php"); ?>
 <!--
 <div style="padding-left:16px">
   <h2>Theodicy the problem of evil and suffering</h2>

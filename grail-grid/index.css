@@ -41,6 +41,7 @@ div.panel.left {                    /* with both "panel" and "left" class */
 }
 div.panel.right {
   grid-area: panright;
+  background-color: blueviolet;
 }
 div.mainbody {
   grid-area: mainbody;

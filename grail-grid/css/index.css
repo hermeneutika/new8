@@ -8,6 +8,13 @@ body {
   margin: 0;                      /* content goes to edge of viewport */
   height: 100vh;                  /* and spans height of viewport */
 }
+
+div.count1 {
+text-align: center;
+background-color: #3E8DA8;;
+
+
+}
 div.container {
   min-height: 25rem;            /* mainbody height never squishes < 25rem */
   display: grid;
@@ -25,7 +32,8 @@ div.container {
 div.header {
   background: rgb(0, 0, 0, 0.2);                             /* 20% black */
   grid-area: head;                /* head corresponds to name in template */
-  background-color: red;
+  background-color: #3E8DA8;;
+  
 }
 div.footer {
   background: rgb(0, 0, 0, 0.2);

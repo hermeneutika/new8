@@ -1,5 +1,3 @@
-<div class="count1">
-
 <?php
 
 /* counter */
@@ -13,7 +11,7 @@ $count=$count + 1 ;
 
 echo '<p style="color: white;> "$count"</p>' ;
 echo $count;
-echo " hits since 24 Nov 2024" ;
+echo " hits since 11 Nov 2024" ;
 echo "\n" ;
 // '<p style="color: red; text-align: center">
 //      Request has been sent. Please wait for my reply!
@@ -22,5 +20,3 @@ echo "\n" ;
 $datei = fopen("countlog.txt","w");
 fwrite($datei, $count);
 fclose($datei);
-?>
-</div>

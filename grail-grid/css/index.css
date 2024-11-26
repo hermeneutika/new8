@@ -45,15 +45,18 @@ div.panel {                            /* div elements with "panel" class */
 div.panel.left {                    /* with both "panel" and "left" class */
   grid-area: panleft;
   background-color: green;
-  height:50%;
+  height:100%;
+  width: 100%;
 }
 div.panel.right {
+  
   grid-area: panright;
   background-color: blueviolet;
 }
 div.mainbody {
   grid-area: mainbody;
-  width: 30rem;                   /* mainbody width is fixed */ justify-self: center;           /* and always centered in grid area */
+  width: 60rem;                   /* mainbody width is fixed */ justify-self: center;           /* and always centered in grid area */
+  background-color: plum;
 }
 @media screen and (max-width: 50rem) {     /* if viewport width < 50rem */
   div.panel.left {

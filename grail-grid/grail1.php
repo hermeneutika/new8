@@ -18,7 +18,7 @@
         <div class="left-sidebar">
             I am left sidebar
 
-            <img src="palestine1.webp" width="200px" height="200px" alt="Palestinian Delusion cover image">
+            <img src="palestine1.webp" width="150px" height="200px" alt="Palestinian Delusion cover image">
             <img src="myth1.jpeg" width="200px" height="200px" alt="mytho f mental illness image">
         </div>
         <main class="main">

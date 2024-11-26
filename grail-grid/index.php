@@ -9,9 +9,9 @@
   <body>
     <div class="container">
       <div class="header"><?php include 'nav.php' ?>Header</div>
-      <div class="panel left">Left panel
-      <img src="palestine1.webp" width="200px" height="200px" alt="Palestinian Delusion cover image">
-      <img src="myth1.jpeg" width="200px" height="200px" alt="mytho f mental illness image">
+      <div class="panel left">
+      <img src="palestine.jpg" width="160px" height="180px" alt="Palestinian Delusion cover image">
+      <img src="myth1.jpeg" width="160px" height="180px" alt="mytho f mental illness image">
 
 
       </div>
@@ -25,7 +25,10 @@
 18  Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;<br>
 19  In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.<br>
 <br><br></div>
-      <div class="panel right content">Right panel</div>
+      <div class="panel right content">
+      <img src="bible.jpg" width="160px" height="180px" alt="bible photo">
+            <img src="interp1.jpg" width="160px" height="180px" alt="interpretation of the NT">
+      </div>
       <div class="footer">Footer</div>
     </div>
   </body>

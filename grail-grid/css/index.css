@@ -57,6 +57,7 @@ div.mainbody {
   grid-area: mainbody;
   width: 60rem;                   /* mainbody width is fixed */ justify-self: center;           /* and always centered in grid area */
   background-color: plum;
+  text-align: center;
 }
 @media screen and (max-width: 50rem) {     /* if viewport width < 50rem */
   div.panel.left {

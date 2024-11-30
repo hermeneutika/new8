@@ -23,6 +23,18 @@
     </div>
   </div> 
   <div class="dropdown">
+    <button class="dropbtn">Nuclear 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+    <a href="tim1.php">Tim Lambesis</a>
+      <a href="#">Jon Schaffer</a>
+      <a href="#">Jesus the Christ</a>
+      <a href="#">Randy Blythe</a>
+      <a href="tommy1.php">Tommy Robinson</a>
+    </div>
+  </div> 
+  <div class="dropdown">
     <button class="dropbtn">The Law 
       <i class="fa fa-caret-down"></i>
     </button>

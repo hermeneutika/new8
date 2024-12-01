@@ -27,7 +27,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-    <a href="tim1.php">Tim Lambesis</a>
+    <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
       <a href="#">Jon Schaffer</a>
       <a href="#">Jesus the Christ</a>
       <a href="#">Randy Blythe</a>

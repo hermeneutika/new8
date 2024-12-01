@@ -38,10 +38,11 @@
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">Inerrancy
+    <button class="dropbtn">The Second Coming
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="advent1.php">Advent</a>
     <a href="chicargo.pdf">Inerrancy</a>
       <a href="#">Hermeneutics</a>
       <a href="#">Application</a>

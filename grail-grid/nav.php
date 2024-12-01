@@ -39,8 +39,10 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="assist1.php">Assisted Dying</a>
     <a href="tim1.php">Tim Lambesis</a>
-      <a href="#">Jon Schaffer</a>
+
+      <a href="#">John schaeffer</a>
       <a href="#">Jesus the Christ</a>
       <a href="#">Randy Blythe</a>
       <a href="tommy1.php">Tommy Robinson</a>
@@ -48,10 +50,11 @@
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">Inerrancy
+    <button class="dropbtn">The Second Coming
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="advent1.php">Advent</a>
     <a href="chicargo.pdf">Inerrancy</a>
       <a href="#">Hermeneutics</a>
       <a href="#">Application</a>

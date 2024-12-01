@@ -27,8 +27,10 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="assist1.php">Assisted Dying</a>
     <a href="tim1.php">Tim Lambesis</a>
-      <a href="#">Jon Schaffer</a>
+
+      <a href="#">John schaeffer</a>
       <a href="#">Jesus the Christ</a>
       <a href="#">Randy Blythe</a>
       <a href="tommy1.php">Tommy Robinson</a>

@@ -28,8 +28,8 @@
     </button>
     <div class="dropdown-content">
     <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
-      <a href="#">Jon Schaffer</a>
-      <a href="#">Jesus the Christ</a>
+      <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
+      <a href="https://www.youtube.com/watch?v=t4EJQPWjFj8">Thorium reactors</a>
       <a href="#">Randy Blythe</a>
       <a href="tommy1.php">Tommy Robinson</a>
     </div>
@@ -158,14 +158,14 @@
     </div>
   </div> 
   <a href="#about">About</a>
+  <?php include 'counter.php'; ?>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
   
 </div>
-<?php
 
-include("counter.php");
 
-?>
+
+
 <!--
 <div style="padding-left:16px">
   <h2>Theodicy the problem of evil and suffering</h2>
@@ -186,3 +186,4 @@ function myFunction() {
 
 </body>
 </html>
+; 

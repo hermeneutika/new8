@@ -91,8 +91,8 @@
     </button>
     <div class="dropdown-content">
       <a href="exist1.php">Existentialism</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>
+      <a href="hermeneutika-original.uk/public_html/index.php">hermeneutika2</a>
     </div>
   </div> 
   <div class="dropdown">

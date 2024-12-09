@@ -13,7 +13,7 @@ $count=$count + 1 ;
 
 echo '<p style="color: white;> "$count"</p>' ;
 echo $count;
-echo " hits since 26 Nov 2024" ;
+echo " hits since 8 Dec 2024" ;
 echo "\n" ;
 // '<p style="color: red; text-align: center">
 //      Request has been sent. Please wait for my reply!

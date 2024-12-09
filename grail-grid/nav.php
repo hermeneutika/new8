@@ -157,13 +157,15 @@
       <a href="music1.php">The 12 Steps</a>
     </div>
   </div> 
+  
   <a href="#about">About</a>
-  <?php include 'counter.php'; ?>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+ 
+ 
   
 </div>
 
-
+<?php include 'counter.php'; ?>
 
 
 <!--
@@ -183,7 +185,7 @@ function myFunction() {
   }
 }
 </script>
-
+<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </body>
 </html>
 ; 

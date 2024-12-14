@@ -35,15 +35,15 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">The Law 
+    <button class="dropbtn">Christian teachers
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-    <a href="assist1.php">Assisted Dying</a>
-    <a href="tim1.php">Tim Lambesis</a>
+    <a href="teach1.php">Teaching</a>
+    <a href="tim1.php">Augustine</a>
 
-      <a href="#">John schaeffer</a>
-      <a href="#">Jesus the Christ</a>
+      <a href="#">Anselm</a>
+      <a href="#">Venerable Bede</a>
       <a href="#">Randy Blythe</a>
       <a href="tommy1.php">Tommy Robinson</a>
     </div>
@@ -146,10 +146,11 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Misc 
+    <button class="dropbtn">Middle East
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="israel1.php">Israel</a>
       <a href="sf1.php">Science Fiction</a>
       <a href="cv1.php">The CV</a>
       <a href="music1.php">Music</a>

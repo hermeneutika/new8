@@ -11,7 +11,7 @@
 <div class="topnav" id="myTopnav">
   <a href="index.php" class="active">Home</a>
   <div class="dropdown">
-    <button class="dropbtn">Child abuse 
+    <button class="dropbtn">abuse 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -35,7 +35,7 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Christian teachers
+    <button class="dropbtn">teachers
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">

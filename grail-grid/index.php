@@ -20,7 +20,8 @@
 Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 1Pe 1:23  Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.<br>
 
-</div>
+
+<img src ="philo-foundations.webp" width="160px" height="180px" alt="philosophical foundations">
       <!--
            Gen 2:17  But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.<br>
 
@@ -31,6 +32,8 @@ Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 18  Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;<br>
 19  In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.<br>
 <br><br></div> -->
+
+</div>
       <div class="panel right content">
       <img src="bible.jpg" width="160px" height="180px" alt="bible photo">
             <img src="interp1.jpg" width="160px" height="180px" alt="interpretation of the NT">

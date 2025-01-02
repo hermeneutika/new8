@@ -50,7 +50,7 @@
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">The Second Coming
+    <button class="dropbtn">Apocalypse
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -146,7 +146,7 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Middle East
+    <button class="dropbtn">Levant
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">

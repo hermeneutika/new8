@@ -33,6 +33,8 @@ Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 19  In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.<br>
 <br><br></div> -->
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmichael.falconer.5209%2Fposts%2Fpfbid0Lh5P8maUETni8z5rXRsaxkP3PoL1XiPEfRbEfYDRGaW6BbWEjPgZpDivoYwdgUsal&show_text=true&width=500" width="500" height="452" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 </div>
       <div class="panel right content">
       <img src="bible.jpg" width="160px" height="180px" alt="bible photo">

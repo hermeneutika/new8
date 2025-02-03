@@ -35,6 +35,8 @@ Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmichael.falconer.5209%2Fposts%2Fpfbid0Lh5P8maUETni8z5rXRsaxkP3PoL1XiPEfRbEfYDRGaW6BbWEjPgZpDivoYwdgUsal&show_text=true&width=500" width="500" height="452" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+    <a href="https://www.garagejournal.com/forum/threads/phillips-vs-jis-called-plus-in-japanese-vs-din-5260-ph-iso-8763-1-screwdrivers.395037/">more JISC</a>
+
 </div>
       <div class="panel right content">
       <img src="bible.jpg" width="160px" height="180px" alt="bible photo">

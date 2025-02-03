@@ -35,10 +35,11 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">teachers
+    <button class="dropbtn">News
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="air1.php">Air Disaster</a>
     <a href="teach1.php">Teaching</a>
     <a href="tim1.php">Augustine</a>
 

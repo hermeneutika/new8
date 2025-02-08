@@ -16,6 +16,7 @@
     </button>
     <div class="dropdown-content">
     <a href="tim1.php">Church of England</a>
+    <a href="ihop1.php">International House of prayer</a>
       <a href="#">Roman Catholicism</a>
       <a href="#">others</a>
       <a href="abuse1.php">Reports</a>
@@ -40,6 +41,7 @@
     </button>
     <div class="dropdown-content">
     <a href="air1.php">Air Disaster</a>
+    <a href="lucy1.php">Lucy Letby</a>
     <a href="teach1.php">Teaching</a>
     <a href="tim1.php">Augustine</a>
 

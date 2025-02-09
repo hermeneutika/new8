@@ -10,8 +10,8 @@
 	<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
-<P>&lt;?php include 'nav.php'; ?&gt; 
-</P>
+<?php include 'nav.php'; ?>
+</>
 <P><BR><BR>
 </P>
 <P><FONT SIZE=5>Biblical prophecy. The Bible is not only a

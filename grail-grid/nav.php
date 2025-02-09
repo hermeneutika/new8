@@ -114,6 +114,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="pray1.php">Prayer</a>
     <a href="sin1.php">SIN</a>
       <a href="jesus1.php">Jesus</a>
       <a href="violence1.php">Pacifism</a>

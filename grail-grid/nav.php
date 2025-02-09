@@ -24,10 +24,11 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Nuclear 
+    <button class="dropbtn">Word of God
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="logos1.php">The Logos</a>
     <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
       <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
       <a href="https://www.youtube.com/watch?v=t4EJQPWjFj8">Thorium reactors</a>
@@ -71,6 +72,7 @@
     </button>
     <div class="dropdown-content">
     <a href="theodicy1.php">Theodicy</a>
+    <a href="tv1.php">Christian tv</a>
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>
       <a href="hicks1.php">Hicks!</a>

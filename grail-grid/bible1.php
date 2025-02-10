@@ -25,8 +25,9 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 echo "Connected successfully";
-    
-$sql="select * from bible";
+    $search1=$_POST['search1'];
+    echo "search1=".$search1;
+$sql="select * from bible where text like '%$search1%'";
 $result=mysqli_query($conn,$sql);
 if (mysqli_num_rows($result) > 0) {
     // output data of each row

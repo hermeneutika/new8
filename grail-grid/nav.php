@@ -122,7 +122,7 @@
       <a href="violence1.php">Pacifism</a>
       
 
-      <a href="bible1.php">The Bible</a>
+      <a href="bible1-input.php">The Bible</a>
       <a href="false1.php">Deception</a>
       <a href="romans1.php">Romans</a>
       <a href="heal1.php">Healing</a>

@@ -41,6 +41,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      
+    <a href="israel1.php">Israel</a>
     <a href="air1.php">Air Disaster</a>
     <a href="lucy1.php">Lucy Letby</a>
     <a href="teach1.php">Teaching</a>

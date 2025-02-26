@@ -35,9 +35,9 @@ $result2=mysqli_query($conn,$sql2);
 $result3=mysqli_query($conn,$sql3);
 if (mysqli_num_rows($result) and (mysqli_num_rows($result2))> 0) {
     // output data of each row
-    while($row = mysqli_fetch_assoc($result) and ($row2 = mysqli_fetch_assoc($result2)) and ($row3 = mysqli_fetch_assoc($result3)))  {
-      echo "book:Bible " .$row["n"] ."<br>" ."text: " . $row["text"]. "<br>";
-      echo "book:michael " .$row2["n"] ."<br>" ."text: " . $row2["text"]. "<br>";
+    while($row = mysqli_fetch_assoc($result) and ($row2 = mysqli_fetch_assoc($result2)) and ($row3 = mysqli_fetch_assoc($result3)))   {
+      echo "book:Bible " .$row["n"]."chapter".$row["chapt"]."<br>" ."text: " . $row["text"]. "<br>";
+      echo "book:micha " .$row2["n"]."chapter".$row["chapt"]."<br>" ."text: " . $row2["text"]. "<br>";
       echo "book:govett " .$row3["n"] ."<br>" ."text: " . $row3["text"]. "<br>";
       
     }

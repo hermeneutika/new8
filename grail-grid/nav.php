@@ -86,6 +86,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="daniel1.php">Daniel</a>
     <a href="revelation1.php">Revelation</a>
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>

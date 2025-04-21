@@ -5,7 +5,11 @@
 	<TITLE></TITLE>
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
 	<META NAME="CREATED" CONTENT="20241028;17410554">
+<<<<<<< HEAD
 	<META NAME="CHANGED" CONTENT="20250418;13220495">
+=======
+	<META NAME="CHANGED" CONTENT="20250420;11154453">
+>>>>>>> ab9aa9bae2f84d4e076eb153b860b5dab8294484
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
@@ -14,7 +18,10 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<<<<<<< HEAD
 <?php include 'nav.php'; ?>
+=======
+>>>>>>> ab9aa9bae2f84d4e076eb153b860b5dab8294484
 <P><FONT SIZE=5>&lt;?php include 'nav.php'; ?&gt; </FONT>
 </P>
 <P STYLE="margin-bottom: 0cm"><FONT SIZE=5>What is Theodicy?</FONT></P>
@@ -66,5 +73,27 @@ slaughter of the innocent at a Grande concert....then I was surely
 worth nothing? It was a controversial time. Some people in Manchester
 didnt want the demo to go ahead. </FONT>
 </P>
+<<<<<<< HEAD
+=======
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">&ldquo;<FONT SIZE=5>Easter&rdquo;
+Sunday 20 April 2024</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT SIZE=5>Still the problem of evil
+suffering pain and death keeps coming up. I am relatively comfortable
+where I am. Yet one has only to switch on the tv,surf the net or read
+a newspaper to find out that not all peoples are so comfortable.
+War,famines,diseases,earthquakes,droughts.......Not all peoples are
+having a &ldquo;happy Easter&rdquo;. Some have said that there are
+more than enough resources on this planet to feed and house
+,educate,give medical assistance etc to everyone on the planet. We
+have all our large multinational organizations like the United
+Nations etc and yet we still have real problems...eg apparently
+according to the news sources....the Sudan is having the worst crisis
+ever if the news feeds are to be believed. </FONT>
+</P>
+>>>>>>> ab9aa9bae2f84d4e076eb153b860b5dab8294484
 </BODY>
 </HTML>

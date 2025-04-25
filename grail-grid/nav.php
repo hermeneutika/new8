@@ -157,10 +157,11 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Levant
+    <button class="dropbtn">CHRISTIAN PERSECUTION
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+    <a href="persecution1.php">Christian persecution</a>
     <a href="israel1.php">Israel</a>
       <a href="sf1.php">Science Fiction</a>
       <a href="cv1.php">The CV</a>

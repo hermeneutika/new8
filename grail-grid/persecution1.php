@@ -15,7 +15,6 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
-<?php include 'nav.php'; ?>
 <P><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0cm"><FONT SIZE=5>Christian persecution</FONT></P>

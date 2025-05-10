@@ -170,15 +170,16 @@
       <a href="music1.php">The 12 Steps</a>
     </div>
   </div> 
-  
+
   <a href="#about">About</a>
+  
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
- 
- 
+ &npsp &nbsp;
+  <?php include 'counter.php'; ?>
   
 </div>
 
-<?php include 'counter.php'; ?>
+
 
 
 <!--
@@ -201,4 +202,3 @@ function myFunction() {
 <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </body>
 </html>
-; 

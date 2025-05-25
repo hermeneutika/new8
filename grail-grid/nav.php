@@ -207,7 +207,7 @@
   
 </div>
 
-
+<?php include 'counter.php' ?>
 
 
 <!--

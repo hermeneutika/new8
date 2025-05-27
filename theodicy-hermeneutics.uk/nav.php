@@ -34,7 +34,7 @@
     <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
       <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
       <a href="https://www.youtube.com/watch?v=t4EJQPWjFj8">Thorium reactors</a>
-      <a href="#">Randy Blythe</a>
+      <a href="blythe-lambesis1.php">Randy Blythe</a>
       <a href="tommy1.php">Tommy Robinson</a>
     </div>
   </div> 

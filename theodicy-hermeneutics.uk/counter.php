@@ -8,13 +8,13 @@
 $datei = fopen("countlog.txt","r");
 $count = fgets($datei,1000);
 fclose($datei);
-$count=$count + 1 ;
+$count = $count + 1 ;
 echo $count;
 // this seems to have done the trick
 
 echo '<p style="color: white;> "$count"</p>' ;
 echo $count;
-echo "  hits since 20 May 2025" ;
+echo "  hits since 26 May 2025" ;
 echo "\n" ;
 // '<p style="color: red; text-align: center">
 //      Request has been sent. Please wait for my reply!

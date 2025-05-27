@@ -200,11 +200,11 @@
   </div> 
 
   <a href="#about">About</a>
-  <h2 testing </h2>
-
+  
+<?php include 'counter.php'; ?>
   
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
- &npsp &nbsp;
+ &nbsp;
 
 
 </div>

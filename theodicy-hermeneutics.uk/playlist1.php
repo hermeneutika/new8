@@ -1,29 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
-	<META NAME="CREATED" CONTENT="0;0">
-	<META NAME="CHANGED" CONTENT="20250528;14015283">
-	<META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
-	<STYLE TYPE="text/css">
-	<!--
-		P { font-family: "Arial" }
-	-->
-	</STYLE>
-</HEAD>
-<BODY LANG="en-GB" DIR="LTR">
-<P><IMG SRC="" NAME="Object1" ALIGN=BOTTOM WIDTH=560 HEIGHT=315> 
-</P>
-<P><BR><BR>
-</P>
-<P>&lt;iframe width=&quot;560&quot; height=&quot;315&quot;
-src=&quot;https://www.youtube.com/embed/XatirvnxXGA?si=35FJvHAR22vz1OvW&quot;
-title=&quot;YouTube video player&quot; frameborder=&quot;0&quot;
-allow=&quot;accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture; web-share&quot;
-referrerpolicy=&quot;strict-origin-when-cross-origin&quot;
-allowfullscreen&gt;&lt;/iframe&gt;</P>
-</BODY>
-</HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<iframe width="300" height="300" src= "https://www.youtube.com/watch?v=FCTvK1BgllY"></iframe> 
+		<iframe width="300" height="300" src="https://www.youtube.com/watch?v=LgC_iRF4uq4&list=RDGMEMQkrror2_9HL9tZyNLB5o0Q&start_radio=1&rv=F3YP8xcehl4"></iframe>
+</body>
+</html>

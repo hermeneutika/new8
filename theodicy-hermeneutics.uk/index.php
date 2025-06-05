@@ -20,7 +20,7 @@
 Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 1Pe 1:23  Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.<br>
 
-
+<a href="israel2.php"><img src ="israeli-arab.jpg" width="160px" height="180px" alt="israeli-arab war history"></a>
 <img src ="philo-foundations.webp" width="160px" height="180px" alt="philosophical foundations">
       <!--
            Gen 2:17  But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.<br>

@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/index.css" />
 </head>
 <body>
-	<iframe width="300" height="300" src= "https://www.youtube.com/watch?v=FCTvK1BgllY"></iframe> 
-		<iframe width="300" height="300" src="https://www.youtube.com/watch?v=LgC_iRF4uq4&list=RDGMEMQkrror2_9HL9tZyNLB5o0Q&start_radio=1&rv=F3YP8xcehl4"></iframe>
-</body>
-</html>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2La3TqqMjGQ?si=gK3nUEYUXxv4FqTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ </body>
+ </html>   

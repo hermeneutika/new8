@@ -12,7 +12,7 @@
 
   <a href="index.php" class="active">Home</a>
   <div class="dropdown">
-    <button class="dropbtn">Christian Charity
+    <button class="dropbtn">Agape
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -26,7 +26,7 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Word of God
+    <button class="dropbtn">logos
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -39,7 +39,7 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Security is still a issue
+    <button class="dropbtn">Security
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -52,7 +52,7 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">the playlist
+    <button class="dropbtn">music
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -86,7 +86,7 @@
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">Apocalypse
+    <button class="dropbtn">End
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -124,7 +124,7 @@
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">Philosophy
+    <button class="dropbtn">Wisdom
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -174,7 +174,7 @@
 
     </div>
   </div> 
-  <div class="dropdown">
+  <!--<div class="dropdown">
     <button class="dropbtn">music
       <i class="fa fa-caret-down"></i>
     </button>
@@ -183,9 +183,10 @@
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>
-  </div> 
+  </div>
+--> 
   <div class="dropdown">
-    <button class="dropbtn">CHRISTIAN PERSECUTION
+    <button class="dropbtn">enemy
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -198,7 +199,35 @@
       <a href="music1.php">The 12 Steps</a>
     </div>
   </div> 
-
+  <div class="dropdown">
+    <button class="dropbtn">Mystics
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+    <a href="meister1.php">Meister Ekhart</a>
+    <a href="israel1.php">Israel</a>
+      <a href="sf1.php">Science Fiction</a>
+      <a href="cv1.php">The CV</a>
+      <a href="music1.php">Music</a>
+      <a href="news1.php">News</a>
+      <a href="music1.php">The 12 Steps</a>
+    </div>
+  </div>
+  
+<div class="dropdown">
+    <button class="dropbtn">polemics
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+    <a href="meister1.php">Meister Ekhart</a>
+    <a href="israel1.php">Israel</a>
+      <a href="sf1.php">Science Fiction</a>
+      <a href="cv1.php">The CV</a>
+      <a href="music1.php">Music</a>
+      <a href="news1.php">News</a>
+      <a href="music1.php">The 12 Steps</a>
+    </div>
+  </div>
   <a href="#about">About</a>
   
 <?php include 'counter.php'; ?>

@@ -1,0 +1,11 @@
+/* IE */
+.pages.grey{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E9E9E9', endColorstr='#d5d5d5',GradientType=0 ); }
+.pages.grey.ahref:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5d5d5', endColorstr='#bfbfbf',GradientType=0 ); }
+.pages.blue{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5ba9e6', endColorstr='#1d67a0',GradientType=0 ); }
+.pages.blue.ahref:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002953', endColorstr='#445e78',GradientType=0 ); }
+.pages.red {filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e65b5b', endColorstr='#a01d1d',GradientType=0 ); }
+.pages.red.ahref:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b53333', endColorstr='#960000',GradientType=0 ); }	
+.pages.green {filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3CC9A6', endColorstr='#0ca07b',GradientType=0 ); }
+.pages.green.ahref:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2fa285', endColorstr='#197f66',GradientType=0 ); }	
+.pages.orange{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFA52A', endColorstr='#d07e08',GradientType=0 ); }
+.pages.orange.ahref:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff6a07', endColorstr='#da4d00',GradientType=0 ); }	

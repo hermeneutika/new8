@@ -11,22 +11,9 @@
 <div class="topnav" id="myTopnav">
 
   <a href="index.php" class="active">Home</a>
+  
   <div class="dropdown">
-    <button class="dropbtn">Agape
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="love1.php">Agape love</a>
-    <a href="tim1.php">Church of England</a>
-    <a href="ihop1.php">International House of prayer</a>
-      <a href="#">Roman Catholicism</a>
-      <a href="#">others</a>
-      <a href="abuse1.php">Reports</a>
-      <a href="tommy1.php"></a>
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">logos
+    <button class="dropbtn">Word of God
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -36,23 +23,18 @@
       <a href="https://www.youtube.com/watch?v=t4EJQPWjFj8">Thorium reactors</a>
       <a href="blythe-lambesis1.php">Randy Blythe</a>
       <a href="tommy1.php">Tommy Robinson</a>
+      <a href="love1.php">Agape love</a>
+    <a href="tim1.php">Church of England</a>
+    <a href="ihop1.php">International House of prayer</a>
+      <a href="#">Roman Catholicism</a>
+      <a href="#">others</a>
+      <a href="abuse1.php">Reports</a>
+      <a href="tommy1.php"></a>
     </div>
   </div> 
+  
   <div class="dropdown">
-    <button class="dropbtn">Security
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="security1.php">Security</a>
-    <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
-      <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
-      <a href="https://www.youtube.com/watch?v=t4EJQPWjFj8">Thorium reactors</a>
-      <a href="#">Randy Blythe</a>
-      <a href="tommy1.php">Tommy Robinson</a>
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">music
+    <button class="dropbtn">the playlist
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -85,19 +67,7 @@
     </div>
   </div> 
   
-  <div class="dropdown">
-    <button class="dropbtn">End
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="advent1.php">Advent</a>
-    <a href="chicargo.pdf">Inerrancy</a>
-      <a href="#">Hermeneutics</a>
-      <a href="#">Application</a>
-      <a href="https://www.moodybible.org/beliefs/chicago-statement-biblical-inerrancy/">Moody Institute</a>
-      <a href="39.pdf">Church of England</a>
-    </div>
-  </div> 
+  
   <div class="dropdown">
     <button class="dropbtn">Theodicy 
       <i class="fa fa-caret-down"></i>
@@ -120,11 +90,17 @@
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>
       <a href="hicks1.php">Hicks!</a>
+      <a href="advent1.php">Advent</a>
+    <a href="chicargo.pdf">Inerrancy</a>
+      <a href="#">Hermeneutics</a>
+      <a href="#">Application</a>
+      <a href="https://www.moodybible.org/beliefs/chicago-statement-biblical-inerrancy/">Moody Institute</a>
+      <a href="39.pdf">Church of England</a>
     </div>
   </div> 
   
   <div class="dropdown">
-    <button class="dropbtn">Wisdom
+    <button class="dropbtn">Philosophy
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -142,6 +118,12 @@
       <a href="#">Mathematics</a>
       <a href="#">Biology?</a>
       <a href="evol1.php">Evolution</a>
+      <a href="security1.php">Security</a>
+    <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
+      <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
+      <a href="https://www.youtube.com/watch?v=t4EJQPWjFj8">Thorium reactors</a>
+      <a href="#">Randy Blythe</a>
+      <a href="tommy1.php">Tommy Robinson</a>
     </div>
   </div> 
   <div class="dropdown">
@@ -161,6 +143,13 @@
       <a href="heal1.php">Healing</a>
       <a href="prophecy1.php">Prophecy</a>
       <a href="give1.php">Christian giving</a>
+      <a href="persecution1.php">Christian persecution</a>
+    <a href="israel1.php">Israel</a>
+      <a href="sf1.php">Science Fiction</a>
+      <a href="cv1.php">The CV</a>
+      <a href="music1.php">Music</a>
+      <a href="news1.php">News</a>
+      <a href="music1.php">The 12 Steps</a>
       <div class="dropdown">
     <button class="dropbtn">music
       <i class="fa fa-caret-down"></i>
@@ -174,7 +163,7 @@
 
     </div>
   </div> 
-  <!--<div class="dropdown">
+  <div class="dropdown">
     <button class="dropbtn">music
       <i class="fa fa-caret-down"></i>
     </button>
@@ -183,54 +172,12 @@
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>
-  </div>
---> 
-  <div class="dropdown">
-    <button class="dropbtn">enemy
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="persecution1.php">Christian persecution</a>
-    <a href="israel1.php">Israel</a>
-      <a href="sf1.php">Science Fiction</a>
-      <a href="cv1.php">The CV</a>
-      <a href="music1.php">Music</a>
-      <a href="news1.php">News</a>
-      <a href="music1.php">The 12 Steps</a>
-    </div>
   </div> 
-  <div class="dropdown">
-    <button class="dropbtn">Mystics
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="meister1.php">Meister Ekhart</a>
-    <a href="israel1.php">Israel</a>
-      <a href="sf1.php">Science Fiction</a>
-      <a href="cv1.php">The CV</a>
-      <a href="music1.php">Music</a>
-      <a href="news1.php">News</a>
-      <a href="music1.php">The 12 Steps</a>
-    </div>
-  </div>
   
-<div class="dropdown">
-    <button class="dropbtn">polemics
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="meister1.php">Meister Ekhart</a>
-    <a href="israel1.php">Israel</a>
-      <a href="sf1.php">Science Fiction</a>
-      <a href="cv1.php">The CV</a>
-      <a href="music1.php">Music</a>
-      <a href="news1.php">News</a>
-      <a href="music1.php">The 12 Steps</a>
-    </div>
-  </div>
+
   <a href="#about">About</a>
   
-<?php include 'counter.php'; ?>
+
   
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  &nbsp;

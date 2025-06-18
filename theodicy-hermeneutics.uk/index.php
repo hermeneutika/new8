@@ -19,7 +19,7 @@
       Joh 3:3  Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.<br>
 Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 1Pe 1:23  Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.<br>
-
+<a href="https://www.semperreformanda.com/"><img src="puritan1.png" alt="Clickable Image" width="200" height="200"> </a>
 <a href="israel2.php"><img src ="israeli-arab.jpg" width="160px" height="180px" alt="israeli-arab war history"></a>
 <img src ="philo-foundations.webp" width="160px" height="180px" alt="philosophical foundations">
       <!--

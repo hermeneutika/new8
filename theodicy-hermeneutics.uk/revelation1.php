@@ -5,7 +5,7 @@
 	<TITLE></TITLE>
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
 	<META NAME="CREATED" CONTENT="20250526;10180586">
-	<META NAME="CHANGED" CONTENT="20250614;21343616">
+	<META NAME="CHANGED" CONTENT="20250617;18571350">
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
@@ -111,5 +111,29 @@ and if one uses the physical sciences as a model for Truth finding,
 surely saying I FEEL that Jesus is Lord is not adequate &hellip;..as
 somebody else might say there is no God but Allah, and they may FEEL
 that they are correct. Perhaps very very strongly!</FONT></P>
+<P CLASS="western"><BR><BR>
+</P>
+<P CLASS="western"><FONT SIZE=5>Sunday 15 June 2025</FONT></P>
+<P CLASS="western"><BR><BR>
+</P>
+<P CLASS="western"><FONT SIZE=5>Some people say that evil has not
+increased, as these days we have better communications and are better
+informed. But it seems to me that the wars and the evil has
+increased. Of course many have tried to fit written Biblical prophecy
+to contemporary events. And most if not all have got it wrong!Hence
+prophecy has fallen into disrepute. So surely we need to go back to
+square one. </FONT>
+</P>
+<P CLASS="western"><FONT SIZE=5>If there is a God and that God is the
+Christian God, and if this God is true , then He cannot lie. His
+Words are absolutely true. And if this God predicts the future. Then
+His Words must be true. And if His Words be True then His Prophecies
+must be True even absolutely True. But then surely this could be true
+of any God? Each philosophy, each faith or religion has its own truth
+claims. So how is one to determine if Jesus is Lord or  there is no
+God but Allah or perhaps Krishnas message to Arjuna? </FONT>
+</P>
+<P CLASS="western"><BR><BR>
+</P>
 </BODY>
 </HTML>

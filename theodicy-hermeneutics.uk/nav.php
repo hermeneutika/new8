@@ -52,6 +52,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="glasto1.php">Glastonbury</a>
     <a href="ukraine1.php">Ukraine</a>
       
     <a href="israel1.php">Israel</a>
@@ -92,7 +93,7 @@
       <a href="hicks1.php">Hicks!</a>
       <a href="advent1.php">Advent</a>
     <a href="chicargo.pdf">Inerrancy</a>
-      <a href="#">Hermeneutics</a>
+      <a href="hermeneutics1.php">Hermeneutics</a>
       <a href="#">Application</a>
       <a href="https://www.moodybible.org/beliefs/chicago-statement-biblical-inerrancy/">Moody Institute</a>
       <a href="39.pdf">Church of England</a>

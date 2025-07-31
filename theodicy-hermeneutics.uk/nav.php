@@ -193,7 +193,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="theft1.php">Theft</a>
+      <a href="keswick1.php">Keswick</a>
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>
@@ -203,7 +203,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="theft1.php">Theft</a>
+      <a href="newwine1.php">New Wine</a>
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>

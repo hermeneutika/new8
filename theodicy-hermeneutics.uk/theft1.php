@@ -15,6 +15,7 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<?php include "nav.php" ?>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Theft   </FONT>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>

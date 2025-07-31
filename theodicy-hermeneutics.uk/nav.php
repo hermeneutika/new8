@@ -52,7 +52,9 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="kisscam1.php">Kiss cam</a>
       <a href="glasto1.php">Glastonbury</a>
+
     <a href="ukraine1.php">Ukraine</a>
       
     <a href="israel1.php">Israel</a>

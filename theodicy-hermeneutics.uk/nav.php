@@ -88,6 +88,9 @@
     </button>
     <div class="dropdown-content">
     <a href="daniel1.php">Daniel</a>
+    <a href="islam1.php">Islamic Eschatology</a>
+    <a href="jew1.php">Jewish Eschatology</a>
+    <a href="christian1.php">Christian Eschatology</a>
     <a href="revelation1.php">Revelation</a>
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>

@@ -208,6 +208,15 @@
       <a href="musvid1.php">Music vids</a>
     </div>
   </div>  
+  <div class="dropdown">
+    <button class="dropbtn">Islam
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="islam1.php">Islam </a>
+      <a href="musvid1.php">Music vids</a>
+    </div>
+  </div>  
   
   <a href="#about">About</a>
   

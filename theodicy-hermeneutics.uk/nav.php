@@ -181,7 +181,7 @@
     </div>
   </div> 
   
-<div class="dropdown">
+<!-- <div class="dropdown">
     <button class="dropbtn">Theft
       <i class="fa fa-caret-down"></i>
     </button>
@@ -190,7 +190,8 @@
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>
-  </div> 
+  </div>
+-->
   <div class="dropdown">
     <button class="dropbtn">Keswick
       <i class="fa fa-caret-down"></i>
@@ -203,6 +204,16 @@
   </div> 
   <div class="dropdown">
     <button class="dropbtn">New Wine
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="newwine1.php">New Wine</a>
+      <a href="islam1.php">Islam </a>
+      <a href="musvid1.php">Music vids</a>
+    </div>
+  </div> 
+  <div class="dropdown">
+    <button class="dropbtn">Israel
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">

@@ -33,6 +33,10 @@ Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 19  In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.<br>
 <br><br></div> -->
 <img src="israel-endtimes.jpg" width="160px" height="180px" alt="isreal endtime" />
+<<<<<<< HEAD
+=======
+<iframe width="260" height="215" src="https://www.youtube.com/embed/kqpjfLeiTRE?si=TYZXojVPIP3n2OiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>>>>>>> f72649deb47dae4ba9a04079a7b78ebcbd5087e3
 <iframe width="260" height="215" src="https://www.youtube.com/embed/BwTxTbGE-a8?si=EcJo0ROr_utjLbrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="260" height="215" src="https://www.youtube.com/embed/zcQYAoFTvGc?si=HnNxCPMDeXZ19Xbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 <iframe width="260" height="215" src="https://www.youtube.com/embed/p8xWuMMpmUc?si=fbYlzj1obKyetKtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

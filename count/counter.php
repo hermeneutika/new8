@@ -1,4 +1,7 @@
-<div class="count1">
+
+<link rel="stylesheet" href="style.css">
+  </head>
+<div class="count">
 
 <?php
 

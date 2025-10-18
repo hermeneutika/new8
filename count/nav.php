@@ -161,6 +161,25 @@
       <a href="news1.php">News</a>
       <a href="music1.php">The 12 Steps</a>
       <div class="dropdown">
+        <div class="dropdown">
+    <button class="dropbtn">Keswick
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="keswick1.php">Keswick</a>
+      <a href="islam1.php">Islam </a>
+      <a href="musvid1.php">Music vids</a>
+    </div>
+  </div> 
+  <div class="dropdown">
+    <button class="dropbtn">New Wine
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="newwine1.php">New Wine</a>
+      <a href="islam1.php">Islam </a>
+      <a href="musvid1.php">Music vids</a>
+    </div>
     <button class="dropbtn">music
       <i class="fa fa-caret-down"></i>
     </button>
@@ -195,25 +214,7 @@
     </div>
   </div>
 -->
-  <div class="dropdown">
-    <button class="dropbtn">Keswick
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="keswick1.php">Keswick</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">New Wine
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="newwine1.php">New Wine</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
+  
   </div> 
   <div class="dropdown">
     <button class="dropbtn">Israel
@@ -230,21 +231,19 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#about">About</a>
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>
-    
   </div>  
   
-   
-
+  <a href="#about">About</a>
   
-  &nbsp;
-
+  
+<?php include "hitcounter.php" ?>
+  
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
- 
-  <?php include "hitcounter.php"  ?>
+ &nbsp;
+
 
 </div>
 

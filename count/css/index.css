@@ -8,12 +8,15 @@ body {
   margin: 0;                      /* content goes to edge of viewport */
   height: 100vh;                  /* and spans height of viewport */
 }
-
-div.count
+.count
 {
+  background-color:red;
+  color:white;
+}
+div.count {
 text-align: center;
-background-color: #3E8DA8;
-color:white;
+background-color: red;
+
 
 
 }

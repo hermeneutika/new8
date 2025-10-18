@@ -1,12 +1,21 @@
+
+#count
+ {
+color:white !important;
+background-color: red !important ;
+}
+count
+ {
+
+background-color:red;
+}
+
 body {margin:0;font-family:Arial}
 
 .topnav {
   overflow: hidden;
   background-color: #3E8DA8;
   font-size: 10px;
-  text-align:center;
-  color:white;
-
 }
 
 .topnav a {

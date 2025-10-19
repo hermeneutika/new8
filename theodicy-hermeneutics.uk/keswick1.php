@@ -5,7 +5,7 @@
 	<TITLE></TITLE>
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
 	<META NAME="CREATED" CONTENT="20250731;11595850">
-	<META NAME="CHANGED" CONTENT="20250731;13352351">
+	<META NAME="CHANGED" CONTENT="20251019;10255205">
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
@@ -16,6 +16,7 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<?php include "nav.php"; ?>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Keswick
 Conference</FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
@@ -44,10 +45,7 @@ Search Results - Keswick Ministries</A> </FONT>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>The above
 link is dealing with Christian issues.....eg assisted
-suicide.....this is audio only.......strong meat??? Keswick is
-free.....they seem to be dealing with strong controversial issues.
-Plenty of teaching at Keswick. </FONT>
-</P>
+suicide.....this is audio only.</FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><A HREF="https://www.youtube.com/watch?v=h5FHhHNPB_c">(133757)
@@ -56,14 +54,18 @@ Wk3 31/07/25 Seminar - YouTube</A> </FONT>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>obviously
-a youtube video. So far not able to find a teaching video. Seventy
-quid for access. New Wine is a youth event?? </FONT>
+a youtube video. </FONT>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>19/10/25  
+Sun	day </FONT>
+</P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>above
+video wk3 31/7/25   Been a while.....</FONT></P>
 </BODY>
 </HTML>

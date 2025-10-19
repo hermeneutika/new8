@@ -124,6 +124,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="rare1.php">Rare Earth</a>
       <a href="mind1.php">Mind "sciences"</a>
       <a href="#">High Energy Physics</a>
       <a href="#">Mathematics</a>

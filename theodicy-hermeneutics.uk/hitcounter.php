@@ -16,6 +16,9 @@
 $count_my_page = ("hitcounter.txt");
 $hits = file($count_my_page);
 $hits[0] ++;
+//$new = implode (", ", $hits) ;
+//echo "hits=".$new;
+//$result  = str_increment($hits); 
 $fp = fopen($count_my_page , "w");
 fputs($fp , "$hits[0]");
 fclose($fp);

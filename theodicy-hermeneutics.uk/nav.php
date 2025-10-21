@@ -18,6 +18,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="hebrews1.php">Hebrews</a>
       <a href="war1.php">Spiritual warfare</a>
     <a href="logos1.php">The Logos</a>
     <a href="psalm1.php">Psalms</a>

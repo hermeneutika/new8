@@ -116,6 +116,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="logical.php">Logical Positivism</a>
       <a href="exist1.php">Existentialism</a>
       <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>
       <a href="hermeneutika-original.uk/public_html/index.php">hermeneutika2</a>
@@ -126,6 +127,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="archeology1.php">Biblical Archeology</a>
       <a href="rare1.php">Rare Earth</a>
       <a href="mind1.php">Mind "sciences"</a>
       <a href="#">High Energy Physics</a>

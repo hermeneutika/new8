@@ -16,6 +16,7 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<?php include "nav.php"; ?>
 <P CLASS="western"><FONT SIZE=5>Hebrews&nbsp;&nbsp; 21/10/25</FONT></P>
 <P CLASS="western">&nbsp;</P>
 <P CLASS="western"><FONT SIZE=5>This is what I think it means!!!</FONT></P>

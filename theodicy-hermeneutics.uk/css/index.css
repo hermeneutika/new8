@@ -9,9 +9,11 @@ body {
   height: 100vh;                  /* and spans height of viewport */
 }
 
-div.count1 {
+div.count
+{
 text-align: center;
-background-color: #3E8DA8;;
+background-color: #3E8DA8;
+color:white;
 
 
 }

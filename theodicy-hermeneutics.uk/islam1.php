@@ -4,8 +4,13 @@
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
 	<TITLE></TITLE>
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
+<<<<<<< HEAD
+	<META NAME="CREATED" CONTENT="20241024;8303320">
+	<META NAME="CHANGED" CONTENT="20241024;8322377">
+=======
 	<META NAME="CREATED" CONTENT="20250805;14445934">
 	<META NAME="CHANGED" CONTENT="20250805;14572522">
+>>>>>>> f72649deb47dae4ba9a04079a7b78ebcbd5087e3
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
@@ -16,8 +21,12 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<<<<<<< HEAD
+<?php include 'nav.php'; ?>
+=======
 <P CLASS="western"><BR><BR>
 </P>
+>>>>>>> f72649deb47dae4ba9a04079a7b78ebcbd5087e3
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Islam</FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
@@ -26,7 +35,11 @@ debate between a prominent Christian and a prominent Muslim. </FONT>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
+<<<<<<< HEAD
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><A HREF="https://www.youtube.com/watch?v=PZYmb0BlqNY&amp;t=1359s">https://www.youtube.com/watch?v=PZYmb0BlqNY&amp;t=1359s</A></FONT></P>
+=======
 <P CLASS="western" STYLE="margin-bottom: 0cm"><A HREF="https://www.youtube.com/watch?v=PZYmb0BlqNY&amp;t=1359s"><FONT SIZE=5>https://www.youtube.com/watch?v=PZYmb0BlqNY&amp;t=1359s</FONT></A></P>
+>>>>>>> f72649deb47dae4ba9a04079a7b78ebcbd5087e3
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>You pays
@@ -36,6 +49,8 @@ yer money and yers make your choice. </FONT>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
+<<<<<<< HEAD
+=======
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>5 Aug 25</FONT></P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
@@ -64,5 +79,6 @@ perhaps even Dr Sookhdeo can be forgiven if he is guilty of whatever
 sins he is accused of. So in most TV court dramas at least, a attack
 is usually made on the &ldquo;credibility&rdquo; of the witness.  </FONT>
 </P>
+>>>>>>> f72649deb47dae4ba9a04079a7b78ebcbd5087e3
 </BODY>
 </HTML>

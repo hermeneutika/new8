@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,6 +18,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="hebrews1.php">Hebrews</a>
+      <a href="war1.php">Spiritual warfare</a>
     <a href="logos1.php">The Logos</a>
     <a href="psalm1.php">Psalms</a>
     <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
@@ -53,6 +56,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="kirk1.php">Charlie Kirk</a>
       <a href="kisscam1.php">Kiss cam</a>
       <a href="glasto1.php">Glastonbury</a>
 
@@ -93,6 +97,7 @@
     <a href="islam1.php">Islamic Eschatology</a>
     <a href="jew1.php">Jewish Eschatology</a>
     <a href="christian1.php">Christian Eschatology</a>
+
     <a href="revelation1.php">Revelation</a>
       <a href="#">Augustine</a>
       <a href="#">Irenaeus</a>
@@ -111,6 +116,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="logical.php">Logical Positivism</a>
       <a href="exist1.php">Existentialism</a>
       <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>
       <a href="hermeneutika-original.uk/public_html/index.php">hermeneutika2</a>
@@ -121,6 +127,11 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="cycle1.php">Cycle</a>
+      <a href="vaccine1.php">The Vaccine</a>
+      <a href="archeology1.php">Biblical Archeology</a>
+      <a href="rare1.php">Rare Earth</a>
+      <a href="mind1.php">Mind "sciences"</a>
       <a href="#">High Energy Physics</a>
       <a href="#">Mathematics</a>
       <a href="#">Biology?</a>
@@ -227,19 +238,21 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="#about">About</a>
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
     </div>
+    
   </div>  
   
-  <a href="#about">About</a>
-  
-  
+   
 
   
+  &nbsp;
+
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
- &nbsp;
-
+ 
+  <?php include "hitcounter.php"  ?>
 
 </div>
 

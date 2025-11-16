@@ -127,7 +127,6 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="cycle1.php">Cycle</a>
       <a href="vaccine1.php">The Vaccine</a>
       <a href="archeology1.php">Biblical Archeology</a>
       <a href="rare1.php">Rare Earth</a>

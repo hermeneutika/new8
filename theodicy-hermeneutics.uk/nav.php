@@ -121,16 +121,15 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-<<<<<<< HEAD
-      <a href="polscience1.php">Political Science</a>
-      <a href="econ1.php">Economic Science</a>
-=======
+
+      <a href="polscience1.php">itical Science</a>
+      <a href="econ1.php">Economic </a>
+
       <a href="polscience1.php">political science</a>
       <a href="econ1.php">Economics</a>
-      <a href="econ2.php">More economics</a>
->>>>>>> 4e6063e1f948061f3583439ccbf77607f1a8f070
+      <a href=".php">More economics</a>
       <a href="logical.php">Logical Positivism</a>
-      <a href="exist1.php">Existentialism</a>
+      <a href="exit1.php">Existentialism</a>
       <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>
       <a href="hermeneutika-original.uk/public_html/index.php">hermeneutika2</a>
     </div>
@@ -255,7 +254,7 @@
 <div class="a">
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  
-  <?php include "hitcounter.php"  ?>
+  <?php include "hitcounter.php";  ?>
 
 </div>
 

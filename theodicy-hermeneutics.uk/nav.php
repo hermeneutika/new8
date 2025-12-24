@@ -122,7 +122,7 @@
     </button>
     <div class="dropdown-content">
 
-      <a href="polscience1.php">itical Science</a>
+      
       <a href="econ1.php">Economic </a>
 
       <a href="polscience1.php">political science</a>

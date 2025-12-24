@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="container">
-      <div class="header"><?php include 'nav.php' ?>Header</div>
+      <div class="header"><?php include 'nav.php' ;?></div>
       <div class="panel left">
       <img src="palestine.jpg" width="160px" height="180px" alt="Palestinian Delusion cover image">
       <a href="myth-mental-ill.pdf"><img src="myth1.jpeg" width="160px" height="180px" alt="mytho f mental illness image"></a>
@@ -33,6 +33,7 @@ Joh 3:7  Marvel not that I said unto thee, Ye must be born again.<br>
 19  In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.<br>
 <br><br></div> -->
 <img src="israel-endtimes.jpg" width="160px" height="180px" alt="isreal endtime" />
+<iframe width="260" height="215" src="https://www.youtube.com/embed/rMKv1HS6gbk?si=HctP3cJJVrnWmBjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="260" height="215" src="https://www.youtube.com/embed/kqpjfLeiTRE?si=TYZXojVPIP3n2OiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="260" height="215" src="https://www.youtube.com/embed/BwTxTbGE-a8?si=EcJo0ROr_utjLbrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="260" height="215" src="https://www.youtube.com/embed/zcQYAoFTvGc?si=HnNxCPMDeXZ19Xbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 

@@ -6,6 +6,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css" />
 <link rel="stylesheet" href="css/index.css" />
+<style>
+  div.a {
+  text-align: center;
+}
+</style>
 </head>
 <body>
 
@@ -116,6 +121,9 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="polscience1.php">political science</a>
+      <a href="econ1.php">Economics</a>
+      <a href="econ2.php">More economics</a>
       <a href="logical.php">Logical Positivism</a>
       <a href="exist1.php">Existentialism</a>
       <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>
@@ -232,40 +240,30 @@
       <a href="musvid1.php">Music vids</a>
     </div>
   </div>  
-  <div class="dropdown">
-    <button class="dropbtn">Economics
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="econ1.php">The dismal science</a>
-      <a href="#about">About</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
+  
     
-  </div>  
-  
-   
-
-  
+<div>
   &nbsp;
+</div>
 
+
+<div class="a">
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  
   <?php include "hitcounter.php"  ?>
 
 </div>
 
-
-
-
 <!--
+
+
+
 <div style="padding-left:16px">
   <h2>Theodicy the problem of evil and suffering</h2>
   <p>Resize the browser window to see how it works.</p>
   <p>Hover over the dropdown button to open the dropdown menu.</p>
 </div>
--->
+
 <script>
 function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -277,5 +275,8 @@ function myFunction() {
 }
 </script>
 <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+
+-->
+</div>
 </body>
 </html>

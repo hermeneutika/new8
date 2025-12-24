@@ -116,6 +116,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="polscience1.php">Political Science</a>
+      <a href="econ1.php">Economic Science</a>
       <a href="logical.php">Logical Positivism</a>
       <a href="exist1.php">Existentialism</a>
       <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>

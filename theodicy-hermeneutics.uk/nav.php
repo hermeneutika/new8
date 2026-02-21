@@ -133,6 +133,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="scop1.php">Schopenhauer quite important</a>
 
       
       <a href="econ1.php">Economic </a>

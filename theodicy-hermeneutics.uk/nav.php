@@ -43,13 +43,18 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn"> Military Orders
-</div>
-  <div class="dropdown">
-    <button class="dropbtn">the playlist
+    <button class="dropbtn"> Catholicism?
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+</div>
+</div>
+  <div class="dropdown">
+    <button class="dropbtn">Prayer
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="whypray1.php">Why pray?</a>
     <a href="playlist1.php">The playlist</a>
     <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
       <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
@@ -133,7 +138,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="scop1.php">Schopenhauer quite important</a>
+      <a href="scop1    .php">Schopenhauer quite important</a>
 
       
       <a href="econ1.php">Economic </a>

@@ -103,6 +103,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="ross1.php">Spiritual Maturity</a>
     <a href="theodicy1.php">Theodicy</a>
     <a href="tv1.php">Christian tv</a>
       <a href="#">Augustine</a>
@@ -138,7 +139,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="scop1    .php">Schopenhauer quite important</a>
+      <a href="scop1.php">Schopenhauer quite important</a>
 
       
       <a href="econ1.php">Economic </a>
@@ -174,54 +175,6 @@
       <a href="tommy1.php">Tommy Robinson</a>
     </div>
   </div> 
-  <div class="dropdown">
-    <button class="dropbtn">Jesus
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="pray1.php">Prayer</a>
-    <a href="sin1.php">SIN</a>
-      <a href="jesus1.php">Jesus</a>
-      <a href="violence1.php">Pacifism</a>
-      
-
-      <a href="bible1-input.php">The Bible</a>
-      <a href="false1.php">Deception</a>
-      <a href="romans1.php">Romans</a>
-      <a href="heal1.php">Healing</a>
-      <a href="prophecy1.php">Prophecy</a>
-      <a href="give1.php">Christian giving</a>
-      <a href="persecution1.php">Christian persecution</a>
-    <a href="israel1.php">Israel</a>
-      <a href="sf1.php">Science Fiction</a>
-      <a href="cv1.php">The CV</a>
-      <a href="music1.php">Music</a>
-      <a href="news1.php">News</a>
-      <a href="music1.php">The 12 Steps</a>
-      <div class="dropdown">
-    <button class="dropbtn">music
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="women1.php">Links about women</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">music
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="women1.php">Links about women</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-  
 <!-- <div class="dropdown">
     <button class="dropbtn">Theft
       <i class="fa fa-caret-down"></i>
@@ -233,6 +186,7 @@
     </div>
   </div>
 -->
+<<<<<<< HEAD
   <div class="dropdown">
     <button class="dropbtn">Keswick
       <i class="fa fa-caret-down"></i>
@@ -251,6 +205,9 @@
   
     
 <div>
+=======
+
+>>>>>>> 728e9ef9622327e725c312172cbb165c71996e8e
   &nbsp;
 </div>
 
@@ -258,9 +215,13 @@
 <div class="a">
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  
+<<<<<<< HEAD
    <?php include "hitcounter.php";  ?>
 
 
+=======
+  <? /*php include "hitcounter.php"; */ ?> 
+>>>>>>> 728e9ef9622327e725c312172cbb165c71996e8e
 
 </div>
 

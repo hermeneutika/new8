@@ -241,28 +241,13 @@
       <a href="keswick1.php">Keswick</a>
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
-    </div>
+      <a href="newwine1.php">new wine</a>
+      <a href="Israel1.php">Israel</a>
+      <a href 
+
   </div> 
-  <div class="dropdown">
-    <button class="dropbtn">New Wine
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="newwine1.php">New Wine</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">Israel
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="newwine1.php">New Wine</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div>  
+  </div>
+  </div>
   
     
 <div>
@@ -273,7 +258,9 @@
 <div class="a">
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  
-  <?php include "hitcounter.php";  ?>
+   <?php include "hitcounter.php";  ?>
+
+
 
 </div>
 

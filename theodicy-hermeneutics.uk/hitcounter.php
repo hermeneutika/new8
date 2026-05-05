@@ -30,7 +30,7 @@ fclose($fp);
 $text1 =  implode( ", ",$hits);
 
  //print  "hits since 15 oct 25=$text1" ; 
-echo  "website "."hits since 24/12/25="  .$text1;
+echo  "website "."hits since 14/4/26="  .$text1;
 ?>
 
 

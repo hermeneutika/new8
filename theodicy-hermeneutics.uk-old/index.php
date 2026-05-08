@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="index.css">
   </head>
   <body>
-    < class="container">
-      <?php include 'nav.php' ?>
+    <div class="container">
+      <div class="header"><?php include 'nav.php' ?>Header</div>
       <div class="panel left">
       <img src="palestine.jpg" width="160px" height="180px" alt="Palestinian Delusion cover image">
       <a href="myth-mental-ill.pdf"><img src="myth1.jpeg" width="160px" height="180px" alt="mytho f mental illness image"></a>

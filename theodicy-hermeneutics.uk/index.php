@@ -10,6 +10,7 @@
     <div class="container">
       <div class="header"><?php include 'nav.php' ;?></div>
       <div class="panel left">
+        <img src="shining-stranger.jpg" width="160px" height="180px" alt="shining cover image"> 
       <img src="palestine.jpg" width="160px" height="180px" alt="Palestinian Delusion cover image">
       <a href="myth-mental-ill.pdf"><img src="myth1.jpeg" width="160px" height="180px" alt="mytho f mental illness image"></a>
 

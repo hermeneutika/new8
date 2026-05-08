@@ -70,6 +70,7 @@
 </button>
 <div class="dropdown-content">
   <a href="king1.php">king of the sciences</a>
+  <a href="shining1.php">The Shining Stranger</a>
 
 </div>
 </div>
@@ -186,7 +187,6 @@
     </div>
   </div>
 -->
-<<<<<<< HEAD
   <div class="dropdown">
     <button class="dropbtn">Keswick
       <i class="fa fa-caret-down"></i>
@@ -205,9 +205,6 @@
   
     
 <div>
-=======
-
->>>>>>> 728e9ef9622327e725c312172cbb165c71996e8e
   &nbsp;
 </div>
 
@@ -215,13 +212,9 @@
 <div class="a">
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
  
-<<<<<<< HEAD
    <?php include "hitcounter.php";  ?>
 
 
-=======
-  <? /*php include "hitcounter.php"; */ ?> 
->>>>>>> 728e9ef9622327e725c312172cbb165c71996e8e
 
 </div>
 

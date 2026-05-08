@@ -6,6 +6,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css" />
 <link rel="stylesheet" href="css/index.css" />
+<style>
+  div.a {
+  text-align: center;
+}
+</style>
 </head>
 <body>
 
@@ -18,6 +23,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="sover1.php">Sovereignty of the Word</a>
       <a href="hebrews1.php">Hebrews</a>
       <a href="war1.php">Spiritual warfare</a>
     <a href="logos1.php">The Logos</a>
@@ -36,12 +42,19 @@
       <a href="tommy1.php"></a>
     </div>
   </div> 
-  
   <div class="dropdown">
-    <button class="dropbtn">the playlist
+    <button class="dropbtn"> Catholicism?
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+</div>
+</div>
+  <div class="dropdown">
+    <button class="dropbtn">Prayer
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="whypray1.php">Why pray?</a>
     <a href="playlist1.php">The playlist</a>
     <a href="https://www.world-nuclear-news.org/articles/european-consortium-focuses-on-vver-fuel">VVer Reactors</a>
       <a href="https://www.youtube.com/watch?v=-2CnCrz38F4&t=71s">Biggest Fusion project</a>
@@ -50,7 +63,16 @@
       <a href="tommy1.php">Tommy Robinson</a>
     </div>
   </div> 
-  
+  <div class="dropdown">
+    <button class="dropbtn">Theology
+      <i class="fa fa-caret-down"></i>
+      
+</button>
+<div class="dropdown-content">
+  <a href="king1.php">king of the sciences</a>
+
+</div>
+</div>
   <div class="dropdown">
     <button class="dropbtn">News
       <i class="fa fa-caret-down"></i>
@@ -117,8 +139,16 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="scop1.php">Schopenhauer quite important</a>
+
+      
+      <a href="econ1.php">Economic </a>
+
+      <a href="polscience1.php">political science</a>
+      <a href="econ1.php">Economics</a>
+      <a href=".php">More economics</a>
       <a href="logical.php">Logical Positivism</a>
-      <a href="exist1.php">Existentialism</a>
+      <a href="exit1.php">Existentialism</a>
       <a href="hermeneutika-old.uk/public_html/index.php">hermeneutika1</a>
       <a href="hermeneutika-original.uk/public_html/index.php">hermeneutika2</a>
     </div>
@@ -128,7 +158,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="cycle1.php">Cycle</a>
+      <a href="dna1.php">DNA</a>
       <a href="vaccine1.php">The Vaccine</a>
       <a href="archeology1.php">Biblical Archeology</a>
       <a href="rare1.php">Rare Earth</a>
@@ -145,54 +175,6 @@
       <a href="tommy1.php">Tommy Robinson</a>
     </div>
   </div> 
-  <div class="dropdown">
-    <button class="dropbtn">Jesus
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-    <a href="pray1.php">Prayer</a>
-    <a href="sin1.php">SIN</a>
-      <a href="jesus1.php">Jesus</a>
-      <a href="violence1.php">Pacifism</a>
-      
-
-      <a href="bible1-input.php">The Bible</a>
-      <a href="false1.php">Deception</a>
-      <a href="romans1.php">Romans</a>
-      <a href="heal1.php">Healing</a>
-      <a href="prophecy1.php">Prophecy</a>
-      <a href="give1.php">Christian giving</a>
-      <a href="persecution1.php">Christian persecution</a>
-    <a href="israel1.php">Israel</a>
-      <a href="sf1.php">Science Fiction</a>
-      <a href="cv1.php">The CV</a>
-      <a href="music1.php">Music</a>
-      <a href="news1.php">News</a>
-      <a href="music1.php">The 12 Steps</a>
-      <div class="dropdown">
-    <button class="dropbtn">music
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="women1.php">Links about women</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">music
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="women1.php">Links about women</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-  
 <!-- <div class="dropdown">
     <button class="dropbtn">Theft
       <i class="fa fa-caret-down"></i>
@@ -204,6 +186,7 @@
     </div>
   </div>
 -->
+<<<<<<< HEAD
   <div class="dropdown">
     <button class="dropbtn">Keswick
       <i class="fa fa-caret-down"></i>
@@ -212,40 +195,47 @@
       <a href="keswick1.php">Keswick</a>
       <a href="islam1.php">Islam </a>
       <a href="musvid1.php">Music vids</a>
-    </div>
+      <a href="newwine1.php">new wine</a>
+      <a href="Israel1.php">Israel</a>
+      <a href 
+
   </div> 
-  <div class="dropdown">
-    <button class="dropbtn">New Wine
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="newwine1.php">New Wine</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div> 
-  <div class="dropdown">
-    <button class="dropbtn">Israel
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="newwine1.php">New Wine</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
-  </div>  
-  <div class="dropdown">
-    <button class="dropbtn">Islam
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#about">About</a>
-      <a href="islam1.php">Islam </a>
-      <a href="musvid1.php">Music vids</a>
-    </div>
+  </div>
+  </div>
+  
     
-  </div>  
-  <script>
+<div>
+=======
+
+>>>>>>> 728e9ef9622327e725c312172cbb165c71996e8e
+  &nbsp;
+</div>
+
+
+<div class="a">
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+ 
+<<<<<<< HEAD
+   <?php include "hitcounter.php";  ?>
+
+
+=======
+  <? /*php include "hitcounter.php"; */ ?> 
+>>>>>>> 728e9ef9622327e725c312172cbb165c71996e8e
+
+</div>
+
+<!--
+
+
+
+<div style="padding-left:16px">
+  <h2>Theodicy the problem of evil and suffering</h2>
+  <p>Resize the browser window to see how it works.</p>
+  <p>Hover over the dropdown button to open the dropdown menu.</p>
+</div>
+
+<script>
 function myFunction() {
   var x = document.getElementById("myTopnav");
   if (x.className === "topnav") {
@@ -256,28 +246,8 @@ function myFunction() {
 }
 </script>
 <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-  
-   
 
-  
-
-
-  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
- 
-  <?php include "hitcounter.php"  ?>
-
-</div>
-
-
-
-
-<!--
-<div style="padding-left:16px">
-  <h2>Theodicy the problem of evil and suffering</h2>
-  <p>Resize the browser window to see how it works.</p>
-  <p>Hover over the dropdown button to open the dropdown menu.</p>
-</div>
 -->
-
+</div>
 </body>
 </html>

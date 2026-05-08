@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -30,7 +30,7 @@ fclose($fp);
 $text1 =  implode( ", ",$hits);
 
  //print  "hits since 15 oct 25=$text1" ; 
-echo  "website "."hits since 5/5/26="  .$text1;
+echo  "website "."hits since 14/4/26="  .$text1;
 ?>
 
 

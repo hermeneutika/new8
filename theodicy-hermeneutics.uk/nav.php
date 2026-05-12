@@ -43,10 +43,12 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn"> Catholicism?
+    <button class="dropbtn"> Economics
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="polscience1.php">political science</a>
+      <a href="econ1.php">Economics</a>
 </div>
 </div>
   <div class="dropdown">
@@ -145,8 +147,7 @@
       
       <a href="econ1.php">Economic </a>
 
-      <a href="polscience1.php">political science</a>
-      <a href="econ1.php">Economics</a>
+      
       <a href=".php">More economics</a>
       <a href="logical.php">Logical Positivism</a>
       <a href="exit1.php">Existentialism</a>

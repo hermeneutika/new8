@@ -71,7 +71,8 @@
       
 </button>
 <div class="dropdown-content">
-  <a href="king1.php">king of the sciences</a>
+<a href="heal1.php">Christian Healing</a>
+<a href="king1.php">king of the sciences</a>
   <a href="shining1.php">The Shining Stranger</a>
 
 </div>
@@ -119,6 +120,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="ezek1.php">Ezekiel</a>
       <a href="zionism1.php">Zionism</a>
     <a href="daniel1.php">Daniel</a>
     <a href="islam1.php">Islamic Eschatology</a>
@@ -161,6 +163,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="tech1.php">Computer parts</a>
       <a href="dna1.php">DNA</a>
       <a href="vaccine1.php">The Vaccine</a>
       <a href="archeology1.php">Biblical Archeology</a>

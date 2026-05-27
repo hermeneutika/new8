@@ -71,6 +71,7 @@
       
 </button>
 <div class="dropdown-content">
+  <a href="smith1.php">Dr Jay Smith</a>
 <a href="heal1.php">Christian Healing</a>
 <a href="king1.php">king of the sciences</a>
   <a href="shining1.php">The Shining Stranger</a>

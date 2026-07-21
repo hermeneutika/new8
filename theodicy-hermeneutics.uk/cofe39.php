@@ -3,19 +3,33 @@
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
 	<TITLE></TITLE>
+<<<<<<< HEAD
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
 	<META NAME="CREATED" CONTENT="20260703;14194536">
 	<META NAME="CHANGED" CONTENT="20260703;14505274">
+=======
+	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.16  (Win32)">
+	<META NAME="CREATED" CONTENT="20260703;14194536">
+	<META NAME="CHANGED" CONTENT="20260706;16503461">
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
 		P { margin-bottom: 0.21cm }
 		P.western { so-language: en-GB }
+<<<<<<< HEAD
+=======
+		A:link { so-language: zxx }
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 	-->
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<<<<<<< HEAD
 <?php include "nav.php" ?>
+=======
+<?php include "nav.php"; ?>
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Friday 3
 July 2026 </FONT>
 </P>
@@ -64,5 +78,64 @@ are brought to logic. Famously exemplified by the Vulcans in the TV
 series Star Trek mainly by Spock and Tuvok. Logic has been around for
 thousands of years. Eg Aristotle.  </FONT>
 </P>
+<<<<<<< HEAD
+=======
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>6 july
+2026 </FONT>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="font-style: normal; font-weight: normal"><FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt">Agreed
+upon by the Archbishops and Bishops of both Provinces and the whole
+clergy in the Convocation holden at London in the year 1562 for the
+avoiding of diversities of opinions and for the establishing of
+consent touching true religion.</FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=LEFT STYLE="font-style: normal; font-weight: normal; widows: 2; orphans: 2">
+<FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt">Reprinted
+by command of His Majesty King Charles 1 with his royal declaration
+prefixed thereunto.</FONT></FONT></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Article 6</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">Holy</SPAN></SPAN></FONT></FONT></FONT><FONT COLOR="#000000">&nbsp;</FONT><FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">Scripture
+containeth all things necessary to salvation: so that whatsoever is
+not read therein, nor may be proved thereby, is not to be required of
+any man, that it should be believed as an article of the Faith, or be
+thought requisite or necessary to salvation. In the name of the holy
+Scripture we do understand those Canonical Books of the Old and New
+Testament, of whose authority was never any doubt in the Church.</SPAN></SPAN></FONT></FONT></FONT>
+</FONT>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">And
+the other Books (as&nbsp;</SPAN></SPAN></FONT></FONT></FONT><EM><FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt"><SPAN STYLE="font-weight: normal">Hierome</SPAN></FONT></FONT></FONT></EM><FONT COLOR="#000000">&nbsp;</FONT><FONT COLOR="#000000"><FONT FACE="Open Sans, calibri, arial, sans-serif"><FONT SIZE=4 STYLE="font-size: 13pt"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">saith)
+the Church doth read for example of life and instruction of manners;
+but yet doth it not apply them to establish any doctrine; such are
+these following:</SPAN></SPAN></FONT></FONT></FONT> </FONT>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>So these
+are writings that are extra Biblical and yet are given as a way to
+stop all division and dissension.</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>There are
+also more modern pronouncements. Eg the Chicargo Statement of
+Biblical Inerrancy. </FONT>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><A HREF="https://www.facebook.com/AllianceofConfessingEvangelicals">https://www.facebook.com/AllianceofConfessingEvangelicals</A></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 </BODY>
 </HTML>

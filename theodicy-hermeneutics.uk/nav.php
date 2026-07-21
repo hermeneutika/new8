@@ -71,6 +71,7 @@
       
 </button>
 <div class="dropdown-content">
+  <a href="gnostic1.php">Gnostics</a>
   <a href="cofe39.php">Thirty Nine articles</a>
   <a href="smith1.php">Dr Jay Smith</a>
 <a href="heal1.php">Christian Healing</a>

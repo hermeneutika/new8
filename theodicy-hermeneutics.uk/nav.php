@@ -71,6 +71,10 @@
       
 </button>
 <div class="dropdown-content">
+  <a href="enlighten1.php">The Betrayal of Enlightenment</a>
+  <a href="viet1.php">Vietnam</a>
+  <a href="odyssey1.php">Odyssey</a>
+  <a href="christian-music.php">Christian "rock" music </a>
   <a href="gnostic1.php">Gnostics</a>
   <a href="cofe39.php">Thirty Nine articles</a>
   <a href="smith1.php">Dr Jay Smith</a>

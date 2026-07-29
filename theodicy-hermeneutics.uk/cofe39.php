@@ -3,20 +3,33 @@
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
 	<TITLE></TITLE>
+<<<<<<< HEAD
+	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.15  (Win32)">
+	<META NAME="CREATED" CONTENT="20260703;14194536">
+	<META NAME="CHANGED" CONTENT="20260703;14505274">
+=======
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.16  (Win32)">
 	<META NAME="CREATED" CONTENT="20260703;14194536">
 	<META NAME="CHANGED" CONTENT="20260706;16503461">
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
 		P { margin-bottom: 0.21cm }
 		P.western { so-language: en-GB }
+<<<<<<< HEAD
+=======
 		A:link { so-language: zxx }
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 	-->
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+<<<<<<< HEAD
+<?php include "nav.php" ?>
+=======
 <?php include "nav.php"; ?>
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>Friday 3
 July 2026 </FONT>
 </P>
@@ -65,6 +78,8 @@ are brought to logic. Famously exemplified by the Vulcans in the TV
 series Star Trek mainly by Spock and Tuvok. Logic has been around for
 thousands of years. Eg Aristotle.  </FONT>
 </P>
+<<<<<<< HEAD
+=======
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>6 july
@@ -121,5 +136,6 @@ Biblical Inerrancy. </FONT>
 </P>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
+>>>>>>> 4c76787c26754977e092a4197f534f17860033f6
 </BODY>
 </HTML>

@@ -71,6 +71,8 @@
       
 </button>
 <div class="dropdown-content">
+  <a href="jesus1.php">Jesus the Christ</a>
+  <a href="pelagius1.php">Pelagius and Augustine</a>
   <a href="enlighten1.php">The Betrayal of Enlightenment</a>
   <a href="viet1.php">Vietnam</a>
   <a href="odyssey1.php">Odyssey</a>

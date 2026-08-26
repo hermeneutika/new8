@@ -52,6 +52,15 @@
 </div>
 </div>
   <div class="dropdown">
+    <button class="dropbtn"> BACKUPS AND SECURITY
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="back1.php">Backups</a>
+      <a href="secure2.php">Security</a>
+</div>
+</div>
+  <div class="dropdown">
     <button class="dropbtn">Prayer
       <i class="fa fa-caret-down"></i>
     </button>
@@ -71,6 +80,7 @@
       
 </button>
 <div class="dropdown-content">
+  <a href="evol1.php">"Evolution"</a>
   <a href="jesus1.php">Jesus the Christ</a>
   <a href="pelagius1.php">Pelagius and Augustine</a>
   <a href="enlighten1.php">The Betrayal of Enlightenment</a>

@@ -5,7 +5,7 @@
 	<TITLE></TITLE>
 	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.16  (Win32)">
 	<META NAME="CREATED" CONTENT="20260827;9014134">
-	<META NAME="CHANGED" CONTENT="20260827;9051497">
+	<META NAME="CHANGED" CONTENT="20260827;16355823">
 	<STYLE TYPE="text/css">
 	<!--
 		@page { margin: 2cm }
@@ -16,7 +16,6 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
-<?php include 'nav.php'; ?>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>27 August
 2026 </FONT>
 </P>
@@ -43,6 +42,21 @@ Explaining Criminal Behavior: Triggers, Mental States &amp; More</A> </FONT>
 <P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>I was
 asking the question what on earth is a &ldquo;trigger&rdquo; &hellip;.says
 who....where is the evidence of its existence? </FONT>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5>And then
+later on I found a critique of DSM-5</FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><FONT SIZE=5><A HREF="https://pmc.ncbi.nlm.nih.gov/articles/PMC6998664/">https://pmc.ncbi.nlm.nih.gov/articles/PMC6998664/</A></FONT></P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0cm"><BR>
 </P>
 </BODY>
 </HTML>

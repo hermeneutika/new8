@@ -183,6 +183,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="psych1.php">Psychology DSM-5</a>
       <a href="tech1.php">Computer parts</a>
       <a href="dna1.php">DNA</a>
       <a href="vaccine1.php">The Vaccine</a>

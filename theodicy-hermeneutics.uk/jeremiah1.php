@@ -14,6 +14,7 @@
 	</STYLE>
 </HEAD>
 <BODY LANG="en-GB" DIR="LTR">
+	<?php include 'nav.php'; ?>
 <P STYLE="margin-bottom: 0cm"><FONT SIZE=5>Jeremiah start 25/10/26</FONT></P>
 <P STYLE="margin-bottom: 0cm"><BR>
 </P>

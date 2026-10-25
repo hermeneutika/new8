@@ -140,6 +140,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="jeremiah1.php">Jeremiah</a>
+    
       <a href="ezek1.php">Ezekiel</a>
       <a href="zionism1.php">Zionism</a>
     <a href="daniel1.php">Daniel</a>

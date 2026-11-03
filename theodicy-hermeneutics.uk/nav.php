@@ -43,10 +43,11 @@
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn"> Economics
+    <button class="dropbtn"> AUTHORITY
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="auth1.php">AUTHORITY</A>
       <a href="polscience1.php">political science</a>
       <a href="econ1.php">Economics</a>
 </div>
@@ -185,6 +186,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+      <a href="code1.php">Code</a>
       <a href="psych1.php">Psychology DSM-5</a>
       <a href="tech1.php">Computer parts</a>
       <a href="dna1.php">DNA</a>

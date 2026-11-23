@@ -5,15 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 
-
 <link rel="stylesheet" href="css/style.css" />
 <link rel="stylesheet" href="css/index.css" />
+<style>
+div.meter
+{
+    text-align:left;
+}
+</style>
 </head>
-<body1>
-<div class="count">
+<body>
+<div class="meter">
     
 <?php
 $count_my_page = ("hitcounter.txt");
+
 $hits = file($count_my_page);
 $hits[0] ++;
 //$new = implode (", ", $hits) ;
@@ -29,11 +35,16 @@ fclose($fp);
 //echo 
 $text1 =  implode( ", ",$hits);
 
- //print  "hits since 15 oct 25=$text1" ; 
-echo  "website "."hits since 7/5/26="  .$text1;
+ //print  "hits since 15 oct 25=$text1" ;
+ ?>
+ 
+<div class="meter">
+ <?php
+ echo  "website hits since 7/5/26="  .$text1;
 ?>
 
+ </div>
 
 </div>
-</body1>
+</body>
 </html>
